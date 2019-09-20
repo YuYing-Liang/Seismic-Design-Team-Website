@@ -1,0 +1,575 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201806 will be lost/reset.
+# Last config file used to build this data file was /home/seismic/tmp/awstats/awstats.seismic.skule.ca.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2012                
+POS_TIME 2690                
+POS_VISITOR 14144               
+POS_DAY 18038               
+POS_DOMAIN 3547                
+POS_LOGIN 4039                
+POS_ROBOT 4194                
+POS_WORMS 5282                
+POS_EMAILSENDER 5413                
+POS_EMAILRECEIVER 5556                
+POS_SESSION 18823               
+POS_SIDER 19029               
+POS_FILETYPES 5691                
+POS_DOWNLOADS 5910                
+POS_OS 10279               
+POS_BROWSER 10522               
+POS_SCREENSIZE 11248               
+POS_UNKNOWNREFERER 11322               
+POS_UNKNOWNREFERERBROWSER 11647               
+POS_ORIGIN 11841               
+POS_SEREFERRALS 11983               
+POS_PAGEREFS 12343               
+POS_SEARCHWORDS 12762               
+POS_KEYWORDS 12914               
+POS_MISC 2354                
+POS_ERRORS 12973               
+POS_CLUSTER 3895                
+POS_SIDER_404 13075               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180701002830 29 5349 18456984089646
+FirstTime 20180601081109
+LastTime 20180630173904
+LastUpdate 20180701080956 29 0 28 0 0
+TotalVisits 95                  
+TotalUnique 67                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 107                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+AddToFavourites 0 0 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 4 67 82119964 10 48 227370
+1 3 50 67985270 7 102 151790690
+2 2 28 34704629 21 32 444091
+3 0 0 0 9 53 31762029
+4 0 0 0 11 38 520822
+5 1 24 15487110 9 55 27859177
+6 1 8 151935 15 42 356553
+7 3 85 21003024 15 56 965783
+8 5 43 58161870 10 30 476545
+9 5 92 125729111 8 30 266618
+10 0 2 212293 11 48 31799042
+11 4 28 34450103 7 24 112257
+12 10 73 98180259 10 51 26892907
+13 75 163 85595608 7 57 61529308
+14 21 40 11622059 28 102 52785231
+15 99 337 212058040 14 179 36994170
+16 20 179 213741342 23 43 8510195
+17 11 75 102018071 9 27 197538
+18 4 26 31400027 15 51 45186341
+19 22 64 51965373 14 48 5652490
+20 14 153 223706366 19 76 36719013
+21 10 83 121329771 13 35 6662903
+22 4 5 187699 16 94 94576086
+23 10 128 149743822 9 33 13020136
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 19
+ca 258 1143 1035799291
+us 59 458 619456238
+ru 2 46 62800054
+it 1 1 9165
+cz 1 1 9165
+fr 1 2 1525038
+nl 1 1 9165
+om 1 1 9165
+ua 1 1 8630
+hk 1 23 13971237
+ma 1 1 9165
+tr 1 8 151935
+il 0 2 1577127
+bh 0 1 1515873
+do 0 1 1515873
+ro 0 1 1515873
+de 0 1 151039
+in 0 1 1515873
+zz 0 60 3840
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 23
+bingpreview 224 302579691 20180628205023 0
+Googlebot/ 179 2015826 20180630202913 0
+bingbot/ 150 3013191 20180630133709 0
+SemrushBot/ 45 790602 20180630163341 0
+java 41 1460816 20180608075800 0
+no_user_agent 37 128427971 20180630094011 0
+facebookexternalhit/ 31 65163743 20180610133514 0
+crawl 30 410965 20180622201202 0
+Googlebot\-Image/ 24 151039 20180626030659 0
+Google[\x20]Web[\x20]Preview 19 31388561 20180620201628 0
+YandexBot/ 12 150706 20180629201849 0
+MJ12bot/ 12 148624 20180628214958 0
+AhrefsBot/ 8 100523 20180626055545 0
+YandexMobileBot/ 8 151935 20180625104754 0
+YandexImages/ 7 15003001 20180629213342 0
+CCBot/ 5 71373 20180624224958 0
+LinkedInBot/ 3 800613 20180630084958 0
+(firefox/)([0-9]\.|[0-1][0]\.) 2 17795 20180629080603 0
+bot[\s_+:,\.\;\/\\-] 2 47614 20180630121048 0
+DuckDuckGo\-Favicons\-Bot/ 2 18330 20180626150505 0
+[\s_+:,\.\;\/\\-]bot 1 3590 20180626214030 0
+DotBot/ 1 8630 20180619001743 0
+Applebot/ 1 9165 20180619212924 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+gif 33 279708 0 0
+js 90 4228486 0 0
+txt 60 3840 0 0
+php 46 406575 0 0
+jpg 679 1667023772 0 0
+html 282 2178342 0 0
+css 223 1984723 0 0
+png 340 65448300 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 60
+/.well-known/pki-validation/4320D499CA819A07CD328BE8968228BF.txt 1 0 64
+/.well-known/pki-validation/950E5633873CD53C5F143799040560FA.txt 1 0 64
+/.well-known/pki-validation/56BB6BCB73B34458FAC6C4802F45F942.txt 1 0 64
+/.well-known/pki-validation/1C6710409D402E3000AF68B6E61ED798.txt 1 0 64
+/.well-known/pki-validation/ACC37F4FF0EA1FDC81043EFE902CD446.txt 1 0 64
+/.well-known/pki-validation/6CF2BC1BBAC92022E66DDA703AA6BC85.txt 1 0 64
+/.well-known/pki-validation/8A8575AEF30C9AD02A0E1AC299F31707.txt 1 0 64
+/.well-known/pki-validation/08792647D2C32167C51D24AB8E7AA90A.txt 1 0 64
+/.well-known/pki-validation/CF9C7E2F3D133AAE52755828D557ADA1.txt 1 0 64
+/.well-known/pki-validation/82264454521D56B31869532980218B0D.txt 1 0 64
+/.well-known/pki-validation/7E77F5762FAC17D6D74CE7B9BA740A86.txt 1 0 64
+/.well-known/pki-validation/7543C7F466F1676670D2AFAB5D3A4B9D.txt 1 0 64
+/.well-known/pki-validation/9231B0EDBAB60F06970E028D967E7D7A.txt 1 0 64
+/.well-known/pki-validation/D262A9F6C2DD676300133104D1A730D3.txt 1 0 64
+/.well-known/pki-validation/3CAB458F3A8BBEBAA6D816921393C09B.txt 1 0 64
+/.well-known/pki-validation/A14A0189F69C5C1B86AE8BCCE2B561BF.txt 1 0 64
+/.well-known/pki-validation/526ADF98B60377F7F7AA16784190A53D.txt 1 0 64
+/.well-known/pki-validation/238DF3643613537200DD457771C588F3.txt 1 0 64
+/.well-known/pki-validation/7D6CB940D0942C3AF74BE3F4C2E2ADC7.txt 1 0 64
+/.well-known/pki-validation/854D302686CD6079C51BC5BF7E1414F9.txt 1 0 64
+/.well-known/pki-validation/6A5A5BFB5970078DE11C7D35C4249165.txt 1 0 64
+/.well-known/pki-validation/9EDFF449309F1634F455A520914D956B.txt 1 0 64
+/.well-known/pki-validation/17867D35520586AD18DB378AB396B9DA.txt 1 0 64
+/.well-known/pki-validation/7CF81707DAE363183D36E8D4C0A527A5.txt 1 0 64
+/.well-known/pki-validation/1A4C8EEA5904EDCBA6FD25705BF7FE85.txt 1 0 64
+/.well-known/pki-validation/4AD23879AD0F21B34F7B6B58709C6EEF.txt 1 0 64
+/.well-known/pki-validation/BF27C5401CDDF0BCC7480E06EE157DFB.txt 1 0 64
+/.well-known/pki-validation/D3ABC7E65327F7FF4DF9D2F9058E9DE0.txt 1 0 64
+/.well-known/pki-validation/2A57C56F624A2901026F7CE140810BDF.txt 1 0 64
+/.well-known/pki-validation/2663767D2A5532879D3623A578597A00.txt 1 0 64
+/.well-known/pki-validation/AACD2219A42490D9127150667C49EF98.txt 1 0 64
+/.well-known/pki-validation/870673F0D96C3D3B6432B910FD694634.txt 1 0 64
+/.well-known/pki-validation/FFEE83BA9E97103946942B9C69A7F8BA.txt 1 0 64
+/.well-known/pki-validation/F8CEA599F77AD72526A90FE06FBA1F4E.txt 1 0 64
+/.well-known/pki-validation/1F4AFDEE9AA29F433740E0C1F3D385CF.txt 1 0 64
+/.well-known/pki-validation/6AF6CDBED8067EBAB8A7EEB82D65C7D0.txt 1 0 64
+/.well-known/pki-validation/4C245B0A05BF568B47306FD2EFFB1B62.txt 1 0 64
+/.well-known/pki-validation/C1839987D2E9943041983EFF6131CC45.txt 1 0 64
+/.well-known/pki-validation/C248B28889792DA73C14D0DE38C66ABF.txt 1 0 64
+/.well-known/pki-validation/5E4C06CCEC8E86036B8E29E6A68889D7.txt 1 0 64
+/.well-known/pki-validation/F0A3C6A92653D8CA43B2B2B4BFC1DD98.txt 1 0 64
+/.well-known/pki-validation/0FDBF5334CEA93475758E69E5188D5C5.txt 1 0 64
+/.well-known/pki-validation/1A41079584C9097BA235C775F478C5AF.txt 1 0 64
+/.well-known/pki-validation/A41C09FF9E4BC7379BD2BBC52E00741E.txt 1 0 64
+/.well-known/pki-validation/042C9681F9F5F93387872DD78208A454.txt 1 0 64
+/.well-known/pki-validation/8A9EF16AEAF8E564805E40F162646CC2.txt 1 0 64
+/.well-known/pki-validation/8DD662B6BDB9038FDE0EBBE18A2C0B0F.txt 1 0 64
+/.well-known/pki-validation/E3034C4557B9A2DC818FCC7EFB439A06.txt 1 0 64
+/.well-known/pki-validation/E946A30FAD7AD841925C4FC43113C8E1.txt 1 0 64
+/.well-known/pki-validation/9647514889A3ADB2F42AA0D0B6455841.txt 1 0 64
+/.well-known/pki-validation/F1F13761C8E06A7192259F30AEAE11B3.txt 1 0 64
+/.well-known/pki-validation/86D621BF59A105837E04F1AE5413DE3C.txt 1 0 64
+/.well-known/pki-validation/7760BB45A45C8A726EA7395EF80E384B.txt 1 0 64
+/.well-known/pki-validation/465BA9367B747B46294568BBA14C2ACA.txt 1 0 64
+/.well-known/pki-validation/2E5B16E1240D5016681EC1959E1104A4.txt 1 0 64
+/.well-known/pki-validation/80B7A7F5DFAAF5EFCCD54C837C8CCB08.txt 1 0 64
+/.well-known/pki-validation/E48C66349BFC5AAB6ECCDF7A7F24C7E0.txt 1 0 64
+/.well-known/pki-validation/18FD2A40271E050D2252CC131676F682.txt 1 0 64
+/.well-known/pki-validation/279EB717A270A1BF225907C196C62D8F.txt 1 0 64
+/.well-known/pki-validation/B24414C3DF17B277C87B46E73E545867.txt 1 0 64
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 13
+macosx5 1 1
+win10 765 211
+macosx6 25 3
+macosx10 51 4
+ios_iphone 138 8
+Unknown 111 3
+macosx 101 8
+linux 58 14
+unix 1 0
+linuxandroid 358 24
+win8.1 23 1
+macosx11 16 16
+win7 105 35
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 34
+firefox52.0 16 16
+iphone 19 1
+msie9.0 21 21
+safari 48 3
+chrome60.0.3112.90 34 2
+opera53.0.2907.68 48 4
+chrome67.0.3396.87 282 16
+edge17 23 1
+firefox38.0 1 1
+firefox40.1 5 5
+chrome67.0.3396.99 37 3
+chrome66.0.3359.158 29 2
+chrome67.0.3396.68 58 5
+chrome64.0.3282.119 23 1
+chrome66.0.3359.126 24 2
+firefox60.0 84 5
+chrome65.0.3325.181 23 1
+safari3.0.3 1 1
+safari4.0.1 1 1
+chrome49.0.2623.75 11 11
+msie11.0 19 1
+safari11.0 94 5
+chrome61.0.3163.100 2 2
+chrome67.0.3396.62 8 1
+firefox61.0 32 2
+chrome63.0.3239.111 23 1
+firefox48.0 24 2
+safari4.0.5 1 1
+mozilla 48 1
+chrome67.0.3396.79 55 5
+opera46.3.2246.127744 57 5
+chrome26.0.1410.63 1 1
+Unknown 63 2
+chrome66.0.3359.181 538 197
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+Photon/1.0 20180611234331
+WhatsApp/0.2.9739_N 20180627230709
+MailChimp 20180602195829
+COMODO_DCV 20180630072710
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20180601222825
+Mozilla/4.0_(compatible;) 20180604164745
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+WhatsApp/0.2.9739_N 20180627230709
+MailChimp 20180602195829
+COMODO_DCV 20180630072710
+Photon/1.0 20180611234331
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 60 168
+From1 0 0
+From2 25 50
+From3 32 32
+From4 211 1503
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 11
+www_google_de 0 1
+www_google_co_in 0 1
+www_google_fr 0 1
+www_google_co_il 0 2
+www_google_ca 16 25
+www_google_ae 1 1
+www_google_com_bh 0 1
+www_google_com 5 15
+www_google_com_hk 1 1
+yandexru 1 1
+www_google_com_tr 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 9
+http://engsci.utoronto.ca 10 10
+http://civmin.utoronto.ca 10 10
+http://m.facebook.com 4 4
+https://www.facebook.com 2 2
+http://l.facebook.com/l.php 2 2
+https://l.instagram.com 1 1
+http://staging.engsci.utoronto.ca 1 1
+https://l.facebook.com 1 1
+http://l.instagram.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+404 406 0
+206 94 83372991
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 20
+/js/).length,k.html5Clone= 2 -
+/single.html 2 -
+/js/).length,k.htmlSerialize=!!b.getElementsByTagName( 2 -
+/js/],_default:k.htmlSerialize 2 -
+/team-bonding.html 2 -
+/js/,data:b}).done(function(a){e=arguments,g.html(d 2 -
+/wp-login.php 5 -
+/images/Team/Jenny.jpg 69 http://seismic.skule.ca/about.html
+/images/Team/Shamim.jpg 6 http://seismic.skule.ca/about.html
+/robots.txt 225 -
+/images/Team/Shamin.jpg 71 http://seismic.skule.ca/about.html
+/https://www.zerotheme.com 2 -
+/images/Gallery/Mishael.jpg 2 http://seismic.skule.ca/about.html
+/design-meetings.html 1 -
+/contact.html 3 -
+/%3Ciframe%20src= 1 http://seismic.skule.ca/contact.php
+/archive.html 4 -
+/guest-lectures.html 1 -
+/images/Team/l.jpg 3 http://seismic.skule.ca/about.html
+/https://www.ae.ca 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 107
+172.86.199.3 180 370 118877585 20180603155903
+35.195.96.252 16 16 283214 20180604191319
+128.100.72.141 11 11 0 20180630164807
+142.1.176.20 10 10 0 20180628183322
+24.150.134.64 9 94 108848929 20180603210041
+184.175.38.216 8 93 116211587 20180627230709
+64.233.172.144 5 5 45825 20180628222103
+67.216.51.240 5 93 145606494 20180624001140
+199.198.223.104 5 58 65489460 20180604164808
+138.51.112.155 4 48 48525124 20180602130232
+70.49.199.18 4 46 51672994 20180613210043
+172.86.192.93 3 34 46763405 20180627230847
+38.99.190.241 3 23 55830611 20180604212233
+72.141.182.196 3 45 51663829 20180603190357
+38.116.192.71 3 43 59423230 20180622151711
+66.102.6.147 2 12 14432197 20180620201627
+99.249.130.176 2 31 45205562 20180611212009
+184.151.179.83 2 30 50699306 20180603202640
+142.1.71.180 2 34 50710772 20180606160136
+204.16.207.109 2 24 31409192 20180611173616
+70.29.100.231 2 25 29041128 20180602160321
+66.102.6.148 2 17 27847592 20180621202411
+199.7.156.226 1 8 13985741 20180603174506
+199.7.157.35 1 8 153590 20180603160659
+64.233.172.146 1 1 9165 20180627223948
+164.67.65.220 0 1 214929 
+216.108.150.119 0 1 413536 
+122.160.48.228 0 1 1515873 
+76.10.167.162 0 1 151039 
+5.75.71.84 1 23 31400027 20180603171506
+69.171.225.85 0 2 4390163 
+35.231.84.55 1 1 0 20180602195829
+104.244.66.185 0 1 3955997 
+66.249.93.27 0 7 4480062 
+207.35.246.210 0 1 61254 
+66.102.6.146 1 15 39665815 20180603174509
+54.83.44.26 1 23 31400027 20180606011448
+143.89.21.26 1 23 13971237 20180618050503
+216.145.105.198 0 1 25431 
+66.102.6.82 1 1 9165 20180630005437
+66.249.81.150 1 1 8630 20180603171956
+173.252.91.251 0 3 4156609 
+47.75.174.156 1 1 9165 20180629075735
+72.141.165.9 1 19 31388561 20180626023058
+213.203.157.50 1 1 9165 20180609222130
+5.37.130.11 1 1 9165 20180601203001
+138.51.252.33 1 23 31400027 20180602123535
+76.168.113.71 1 6 133283 20180626024650
+216.186.97.214 0 1 1515873 
+138.51.114.35 1 23 31400027 20180618110350
+192.104.67.121 1 19 31388561 20180621090535
+47.52.240.53 1 1 9165 20180629074517
+173.239.189.42 1 8 151935 20180620090736
+160.177.251.132 1 1 9165 20180612123232
+65.49.68.154 1 11 10381033 20180606081020
+184.149.38.118 0 1 151039 
+66.249.93.28 0 10 12167907 
+91.236.116.142 1 1 9165 20180625190202
+135.23.73.18 1 22 19464981 20180628072238
+54.187.102.61 1 1 9165 20180604082113
+141.72.250.175 0 1 151039 
+99.235.12.234 1 19 31388561 20180613121132
+193.188.121.62 0 1 1515873 
+186.149.73.212 0 1 1515873 
+193.104.213.234 1 1 8630 20180614085639
+205.189.187.4 1 22 19464981 20180628130546
+47.75.103.167 1 1 10820 20180629080711
+173.252.91.248 1 9 5038059 20180604180615
+66.211.132.72 0 1 1515873 
+173.35.217.154 1 3 4970287 20180603011725
+10.1.0.150 0 60 3840 
+173.32.108.154 0 19 3047829 
+64.235.109.214 0 1 61254 
+173.252.91.253 0 3 1962873 
+69.171.225.70 0 13 10091839 
+173.252.91.250 0 3 11886099 
+99.241.209.44 1 23 31400027 20180616091724
+72.143.192.164 1 19 31388561 20180624093226
+31.154.181.210 0 1 61254 
+5.29.151.38 0 1 1515873 
+69.171.225.90 1 4 4029339 20180620014026
+65.49.68.157 0 8 3578738 
+173.252.91.252 0 1 2250 
+78.206.251.50 0 1 1515873 
+165.227.103.200 1 1 9165 20180601222825
+69.171.225.78 0 2 7875208 
+66.249.93.29 1 6 14752058 20180608163337
+34.216.172.24 1 23 31400027 20180620230418
+66.102.6.84 1 1 9165 20180630173904
+99.237.191.93 0 1 151039 
+138.51.115.3 0 1 151039 
+173.252.91.254 0 4 8354137 
+81.214.140.133 1 8 151935 20180609063223
+64.233.172.142 1 1 9165 20180623112024
+69.171.225.69 0 2 5013478 
+91.187.63.75 1 1 9165 20180602124013
+208.124.242.82 0 1 25431 
+108.5.151.117 0 1 1515873 
+78.201.28.2 1 1 9165 20180620194147
+79.119.136.91 0 1 1515873 
+64.80.6.2 0 1 268042 
+67.166.251.42 0 1 214929 
+65.93.57.185 1 19 31388561 20180601081109
+207.157.96.14 0 1 1515873 
+192.0.86.166 0 1 1515873 
+188.244.36.217 1 23 31400027 20180606092320
+34.245.51.228 1 1 9165 20180603164931
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20180601 4 24 31407019 4
+20180602 9 100 108975572 5
+20180603 208 706 567013864 17
+20180604 27 134 154528478 6
+20180605 0 3 61382 0
+20180606 6 102 127470725 5
+20180607 1 6 1602686 1
+20180608 1 26 31461409 1
+20180609 3 12 161228 3
+20180610 1 4 151167 1
+20180611 4 58 78130755 2
+20180612 2 4 9293 2
+20180613 6 69 83276612 3
+20180614 1 4 1524631 1
+20180615 1 5 3031874 1
+20180616 2 26 31400155 2
+20180617 0 4 4107164 0
+20180618 3 50 46887265 3
+20180619 1 4 151167 1
+20180620 5 58 62970447 5
+20180621 3 24 31548893 3
+20180622 5 48 60948396 3
+20180623 1 3 9293 1
+20180624 6 82 126293576 4
+20180625 3 8 3265133 3
+20180626 3 28 31531137 3
+20180627 12 100 112955091 5
+20180628 4 50 39115725 4
+20180629 3 6 1545151 3
+20180630 3 5 18458 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+5mn-15mn 2
+30mn-1h 2
+30s-2mn 7
+2mn-5mn 1
+0s-30s 81
+1h+ 1
+15mn-30mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 5
+/about.html 130 900250 7 17
+/ 108 669111 83 68
+/contact.php 46 406575 2 4
+/design.html 26 370911 3 3
+/sponsors.html 18 238070 0 3
+END_SIDER

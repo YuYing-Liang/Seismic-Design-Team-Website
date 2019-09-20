@@ -1,0 +1,506 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201703 will be lost/reset.
+# Last config file used to build this data file was /home/seismic/tmp/awstats/awstats.seismic.skule.ca.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2012                
+POS_TIME 2673                
+POS_VISITOR 9309                
+POS_DAY 13254               
+POS_DOMAIN 3520                
+POS_LOGIN 3933                
+POS_ROBOT 4088                
+POS_WORMS 4671                
+POS_EMAILSENDER 4802                
+POS_EMAILRECEIVER 4945                
+POS_SESSION 14057               
+POS_SIDER 14258               
+POS_FILETYPES 5080                
+POS_DOWNLOADS 5262                
+POS_OS 5310                
+POS_BROWSER 5571                
+POS_SCREENSIZE 6332                
+POS_UNKNOWNREFERER 6406                
+POS_UNKNOWNREFERERBROWSER 6493                
+POS_ORIGIN 6733                
+POS_SEREFERRALS 6876                
+POS_PAGEREFS 7044                
+POS_SEARCHWORDS 7471                
+POS_KEYWORDS 7623                
+POS_MISC 2337                
+POS_ERRORS 7682                
+POS_CLUSTER 3789                
+POS_SIDER_404 7792                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20170401002201 5 625 10162263539690
+FirstTime 0
+LastTime 20170331044905
+LastUpdate 20170401080657 5 0 4 0 0
+TotalVisits 102                 
+TotalUnique 81                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 103                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 12 56 1810538 28 56 1141080
+1 35 106 3430396 54 75 441290
+2 0 1 61254 7 31 1154300
+3 3 32 17723941 13 45 1567917
+4 15 30 459131 9 18 1517387
+5 1 4 122633 3 14 203199
+6 3 3 24336 10 14 128845
+7 0 0 0 5 20 86398
+8 2 36 1966110 10 19 10400885
+9 12 72 35506201 30 37 29758
+10 23 207 41934738 37 45 174650
+11 26 166 21603210 49 66 611924
+12 29 143 5978474 37 64 1766142
+13 15 135 38829988 51 67 914838
+14 18 145 39129745 38 62 5456090
+15 23 125 21624961 36 61 8684545
+16 25 146 55056692 46 69 13464434
+17 7 52 2438319 15 44 15056426
+18 8 64 19099118 29 42 861172
+19 12 87 36092624 33 53 1132025
+20 15 47 1514716 18 78 3241058
+21 9 72 19692856 19 35 1229679
+22 17 50 1485438 22 73 2650785
+23 21 187 56672923 65 120 18793631
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 13
+ca 202 1600 378838801
+nl 37 82 1342308
+gb 28 52 899006
+fr 16 53 18087354
+ru 14 17 212243
+br 12 26 381653
+us 10 106 21371548
+jp 7 7 56784
+pl 2 2 8112
+tr 1 18 983055
+ua 1 1 8112
+sg 1 1 8112
+sa 0 1 61254
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 11
+bingpreview 143 18224210 20170330204712 0
+bot[\s_+:,\.\;\/\\-] 102 15003738 20170331035643 0
+php 73 22970675 20170331224345 0
+googlebot 49 429487 20170331211003 0
+[\s_+:,\.\;\/\\-]bot 41 20073520 20170330054057 0
+googlebot\-image 38 34902 20170330230737 0
+google[_+\s]web[_+\s]preview 18 352907 20170331025412 0
+msnbot\-media 5 45551 20170323002624 0
+slurp 1 4672 20170311081747 0
+no_user_agent 1 8112 20170321125351 0
+spider 1 8112 20170301190106 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+jpg 969 403514289 0 0
+png 470 9021911 0 0
+html 314 2074529 0 0
+css 62 1064633 0 0
+php 17 79424 0 0
+js 134 6503556 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 15
+win8.1 23 4
+macosx 169 19
+win7 378 52
+win2000 1 1
+linux 75 9
+winxp 24 24
+java 157 74
+winnt 790 109
+ios_iphone 68 7
+macosx6 2 2
+winlong 1 1
+win8 1 1
+macosx9 19 2
+ios_ipad 55 3
+linuxandroid 203 23
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 39
+msie10.0 1 1
+chrome10.0.648.134 1 1
+firefox52.0 42 5
+opera36.0.2130.32 1 1
+firefox34.0 1 1
+opera43.0.2442.1144 66 9
+msie10.6 1 1
+Unknown 158 74
+iphone 32 5
+firefox3.6 2 2
+firefox6.0.2 7 7
+firefox3.0.1.7 1 1
+msie11.0 65 7
+firefox45.0 73 7
+chrome55.0.2883.75 21 1
+chrome50.0.2661.94 53 12
+firefox3.5.5 1 1
+safari10.0 18 1
+chrome54.0.2840.85 30 2
+safari7.0 54 3
+chrome28.0.1500.94 30 2
+msie8.0 5 2
+chrome55.0.2883.87 70 10
+chrome56.0.2924.87 1067 130
+safari10.1 1 0
+firefox25.0 1 1
+safari9.0 18 1
+chrome57.0.2987.98 42 5
+firefox26.0 1 1
+firefox48.0 1 1
+msie6.0 14 14
+chrome32.0.1667.0 1 1
+safari10.0.3 49 6
+msie9.0 16 11
+firefox21.0 1 1
+chrome4.1.249.1036 1 1
+safari9.1.2 18 1
+chrome51.0.2704.106 1 1
+msie7.0 1 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+com.google.GoogleMobile/24.1.0_iPad/10.2.1_hw/iPad3_6 20170331025408
+Java/1.7.0_79 20170314200049
+Java/1.8.0_121 20170331044915
+Java/1.8.0_101 20170316125821
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 156 245
+From1 0 0
+From2 25 42
+From3 29 29
+From4 121 1650
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 24 41
+yandex 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 7
+http://m.facebook.com 11 11
+http://civil.engineering.utoronto.ca 8 8
+https://l.facebook.com 4 4
+http://l.facebook.com/l.php 3 3
+https://www.facebook.com 1 1
+http://engsci.utoronto.ca/news/engsci-mover-and-shaker-recognized-with-leadership-award/ 1 1
+https://www.linkedin.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+404 690 0
+302 2 0
+206 33 13552572
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 39
+/wordpress/ 2 -
+/images/Blackwell 1 -
+/wp/ 2 -
+/.bzr/README 1 -
+/libs/about.html 2 -
+/.svn/entries 1 -
+/wp/wp-admin/ 3 -
+/.git/config 1 -
+/blog/robots.txt 2 -
+/wp-admin/ 3 -
+/js/],_default:k.htmlSerialize 6 -
+/fonts/OpenSans-Regular-webfont.woff 220 http://seismic.skule.ca/
+/libs/contact.php 2 -
+/administrator/ 1 -
+/js/===c)&&(b.defaultValue=a.defaultValue)}}m.extend({clone:function(a,b,c){var 6 -
+/js/!=typeof 6 -
+/fonts/OpenSans-Regular-webfont.svg 35 -
+/fonts/OpenSans-Regular-webfont.eot 3 http://seismic.skule.ca/
+/.git/refs/heads 1 -
+/.hg/requires 1 -
+/js/,data:b}).done(function(a){e=arguments,g.html(d 6 -
+/images/Blackwell.png 1 http://seismic.skule.ca/sponsors.html
+/admin.php 1 -
+/wordpress/wp-admin/ 3 -
+/wp-login.php 1 -
+/https://www.linkedin.com/groups/8462685/profile 1 -
+/blog/ 2 -
+/fonts/OpenSans-Regular-webfont.ttf 232 -
+/.git/HEAD 1 -
+/js/).length,k.htmlSerialize=!!b.getElementsByTagName( 6 -
+/old/wp-admin/ 2 -
+/.gitignore 1 -
+/https://www.youtube.com/channel/UCugrQkMvhnQnwLsrQ_8Cvxg 1 -
+/robots.txt 118 -
+/js/).length,k.html5Clone= 6 -
+/https://www.facebook.com/University-of-Toronto-Seismic-Design-Team-784888368289699 1 -
+/xmlrpc.php 2 -
+/test/wp-admin/ 3 -
+/blog/wp-admin/ 3 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 103
+142.151.242.117 30 98 2725852 20170325112755
+46.31.171.86 26 50 882782 20170314200044
+145.132.56.2 24 54 889464 20170316125814
+99.240.107.146 14 215 9139899 20170325112414
+199.166.186.1 12 53 18236287 20170328164518
+85.144.181.178 12 27 444732 20170316010027
+177.159.207.186 12 26 381653 20170331044905
+69.58.102.156 10 49 18115382 20170330133359
+149.202.74.124 10 10 62795 20170320155011
+99.225.208.141 9 52 18310063 20170302234330
+205.175.215.23 8 48 18177370 20170312154819
+142.1.176.20 8 8 0 20170329045436
+216.165.213.226 7 47 18187620 20170310233113
+138.51.116.218 7 47 18149093 20170305164501
+128.100.36.124 7 38 17796401 20170324091732
+5.188.211.13 7 7 48861 20170330104935
+138.51.126.96 6 45 18111391 20170321182017
+128.100.14.204 6 46 18168536 20170322145616
+5.188.211.35 6 6 40749 20170329124041
+192.0.223.107 6 43 18017169 20170327214610
+46.193.0.137 5 42 18016447 20170325195840
+128.100.112.119 5 44 18107229 20170321100137
+128.100.8.95 4 41 18008335 20170329101308
+142.1.208.149 4 23 1058234 20170306144751
+128.100.14.129 4 23 1095052 20170316122739
+142.1.71.196 3 32 17701688 20170329095942
+206.205.23.253 0 1 30090 
+174.112.189.193 0 1 30090 
+172.110.69.202 0 1 30090 
+210.232.15.29 1 1 8112 20170311001531
+172.110.72.187 0 1 30090 
+99.246.103.29 2 30 17668373 20170311214138
+99.238.169.135 0 1 55568 
+50.101.35.125 2 20 1016370 20170328221739
+211.123.206.73 1 1 8112 20170324091721
+69.165.245.138 1 18 983055 20170330011058
+157.55.39.114 0 1 95786 
+138.51.249.19 2 30 17668373 20170323110015
+108.161.114.237 1 1 8112 20170328220352
+50.101.17.237 0 1 55568 
+99.252.140.89 1 1 8112 20170328211656
+207.46.13.1 0 1 1282 
+198.84.177.88 1 18 983055 20170311104957
+138.51.115.16 2 30 17668373 20170330134718
+70.26.87.252 0 1 55568 
+211.6.122.122 2 2 16224 20170313211406
+138.51.242.134 1 18 983055 20170328133758
+72.143.193.107 1 18 983055 20170329084744
+50.66.82.159 1 18 983055 20170310232620
+119.81.230.157 1 1 8112 20170322170604
+208.58.82.62 0 1 82454 
+204.79.180.16 0 1 95786 
+50.64.3.121 0 1 61254 
+204.79.180.173 0 1 17453 
+209.91.130.50 0 1 30090 
+192.0.205.173 3 21 1020532 20170327210047
+211.6.122.120 1 1 8112 20170316171425
+178.137.83.166 1 1 8112 20170330004248
+24.142.89.83 1 18 983055 20170320233004
+99.235.226.60 1 1 8112 20170329003858
+70.49.175.157 0 2 60180 
+207.164.187.162 1 20 1043235 20170307173257
+65.95.92.159 1 18 983055 20170302102408
+204.79.180.227 1 1 8112 20170319051514
+195.154.191.62 1 1 8112 20170315063608
+204.79.180.46 0 1 1282 
+211.0.154.120 1 1 8112 20170330011536
+107.77.97.90 2 30 17668373 20170308032344
+207.219.56.130 0 1 0 
+199.166.188.42 1 10 931922 20170328164715
+46.73.177.6 1 4 122633 20170322141830
+45.55.224.77 1 1 8112 20170317002733
+76.67.175.161 1 18 983055 20170302214110
+138.51.245.154 4 34 17739390 20170318160220
+24.141.100.18 1 18 983055 20170320211824
+174.115.51.228 2 19 987727 20170313181547
+66.252.158.210 2 36 1966110 20170303150615
+65.93.213.227 1 18 983055 20170328123626
+38.27.68.189 1 1 8112 20170329220704
+83.31.187.127 2 2 8112 20170317190012
+24.239.14.236 0 1 55568 
+192.42.116.16 1 1 8112 20170317005247
+76.71.140.228 0 1 55568 
+95.218.158.67 0 1 61254 
+138.51.117.155 3 28 1297814 20170326175317
+192.75.165.29 0 1 55568 
+208.124.164.114 1 18 983055 20170310143748
+163.172.71.23 2 2 16224 20170325065141
+97.77.95.114 1 18 983055 20170301152429
+107.178.195.211 1 1 8112 20170317002206
+210.163.39.78 1 1 8112 20170308041415
+142.203.1.9 1 18 983055 20170308143046
+138.51.242.213 2 2 8112 20170325122902
+88.233.248.102 1 18 983055 20170314014245
+64.228.24.7 1 1 8112 20170328223605
+99.235.237.218 1 18 983055 20170322135211
+65.95.64.102 1 23 16828646 20170302234443
+128.100.8.191 3 32 17701688 20170321141531
+99.242.22.231 1 1 8112 20170329042556
+216.86.46.237 1 18 983055 20170308121740
+67.88.213.9 2 29 1380484 20170308151016
+205.250.86.2 0 2 30090 
+66.244.250.210 4 58 2760968 20170320122841
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20170301 2 19 991167 2
+20170302 12 111 37104819 4
+20170303 3 37 1966110 3
+20170304 29 110 3647091 3
+20170305 7 49 18265915 1
+20170306 4 23 1058234 1
+20170307 1 19 1013145 1
+20170308 8 98 21023079 6
+20170310 9 83 20153730 3
+20170311 4 49 18659540 3
+20170312 9 49 18177370 2
+20170313 6 68 3389468 4
+20170314 16 72 2804930 3
+20170315 1 2 38202 1
+20170316 31 80 2000740 6
+20170317 5 7 92628 4
+20170318 4 36 17799570 1
+20170319 2 5 122633 2
+20170320 14 76 3464957 4
+20170321 14 122 53975876 3
+20170322 12 100 20692910 6
+20170323 5 78 20062002 3
+20170324 8 41 17834603 2
+20170325 41 178 21029892 7
+20170326 3 28 1297814 1
+20170327 9 65 19120155 3
+20170328 20 123 22230593 8
+20170329 18 104 36910799 8
+20170330 22 106 36831895 6
+20170331 12 28 498475 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+15mn-30mn 1
+2mn-5mn 5
+30s-2mn 13
+5mn-15mn 5
+0s-30s 77
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 11
+/ 121 908544 96 62
+/sponsors.html 59 427112 3 12
+/about.html 30 272490 2 6
+/portfolio.html 27 130788 0 3
+/contact.php 17 79424 1 7
+/1617tower.html 16 66592 0 6
+/design-meetings.html 15 71910 0 1
+/1516tower.html 13 53755 0 3
+/team-bonding.html 12 51336 0 2
+/guest-lectures.html 11 46442 0 0
+/graduate-seminars.html 10 45560 0 0
+END_SIDER

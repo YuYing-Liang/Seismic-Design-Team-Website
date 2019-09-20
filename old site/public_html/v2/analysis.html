@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>Seismic | Analysis Techniques</title>
+	<meta name='description' content='Seismic Design Team, University of Toronto, Analysis Techniques'/>
+	<meta name='keywords' content='Seismic Design Team, University of Toronto, Analysis Techniques, UofT, U of T, Civil Engineering, Engineering Science Infrastructure, Club'/>		
+	<link rel="stylesheet" href="style.css" type="text/css" media="screen, projection" />
+	<!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+	<script src="http://code.jquery.com/jquery-1.8.3.min.js"></script>
+	<script>
+	$(function(){
+	$('a').each(function() {
+	if ($(this).prop('href') == window.location.href) {
+	$(this).addClass('current');
+	}
+	});
+	});
+	</script>
+        <link rel="shortcut icon" type="image/png" href="http://cdn.mysitemyway.com/icons-watermarks/simple-black/ocha-inv/ocha-inv_disaster-earthquake-inv/ocha-inv_disaster-earthquake-inv_simple-black_128x128.png"/>
+</head>
+<body>
+	<div id="wrapper">
+	
+		<!--========================== L O G O  &   N A V    B A R ============================-->
+		<header>
+			<div id="logo">
+				<a href="index.html"><img src="images/seismic-logo.jpg" alt="Seismic" /></a>
+			</div>
+			<nav>
+				<ul>
+					<li><a href="index.html">Home</a></li>
+					<li><a href="about.html" style="border-bottom: 2px solid #00BCF2;color: #00BCF2;">About Us</a></li>
+					<li><a href="portfolio.html">Portfolio</a></li>
+					<li><a href="sponsors.html">Sponsors</a></li>
+					<li><a href="contact.php">Contact Us</a></li>
+				</ul>
+			</nav>
+		</header>
+		
+		<!--========================== M A I N   C O N T E N T =============================-->
+		<!--Here goes the page title and tag line-->
+		<div id="pagetitle">
+			<h1>Analysis Techniques</h1>
+			<p></p>
+		</div>
+		<div id="main" class="clearfix">
+			<div id="content"><!--Here goes the blog post-->
+			<!--TO INCLUDE IMAGES CONSULT ORIGINAL BLOG POST CODE TO FLOAT IMAGES WITH PARAGRAPHS-->
+				<h2>Frequency Analysis</h2>
+				<p>
+				This analysis takes into account the stiffness of the structure and the distribution of mass to determine the natural frequency of the structure.
+				Defining the number of degrees of freedom of a structure is pertinent in earthquake analysis.
+				Frequency analysis simply takes the matrices representing the stiffness and mass of the structure and
+				solves the corresponding eigen problem for both the eigenvalues (natural frequencies) and corresponding eigenvectors (mode shapes). 	
+				</p>
+				
+				<h2>Classical Modal Analysis</h2>
+				<p>
+				Modal Analysis takes the governing coupled-differential equations (or equations of motions) and transforms them into modal coordinates where they become uncoupled and
+				represent the time dependent deformation response of a mode. Using the natural frequencies of each mode and their corresponding mode shapes, earthquake analysis can now be undertaken. 
+				</p>
+				
+				<h2>Earthquake Analysis</h2>
+				<p>
+				Both Time History Analysis and Response Spectrum Analysis are concerned with determining the deformations of the structure due to the ground motion which are used to calculated
+				member forces and define failure and rely on Classical Modal Analysis to uncouple the differential equations governing the motion of the structure.
+				Time History Analysis will first be outlined. 
+				</p>
+				
+				<h2>Time History Analysis</h2>
+				<p>
+				This method involves solving the N-uncoupled-single degree of freedom-differential equations of motion of the structure each representing the time-dependent-deformation response
+				of a single mode. Using the mode vectors along with the solved amplitude response from each mode’s differential equation, the deformation of the structure,
+				throughout every time step of the ground motion data, can be calculated. 	
+				</p>
+				
+				<h2>Response Spectrum Analysis </h2>
+				<p>
+				Clearly, Time History Analysis can be computationally intensive as the structures get larger with more connections and members.
+				So, a design-friendly approach takes advantage of the response spectrum when it is available (in our case, the Seismic Design Competition provides them each year,
+				although they can also be generated quite simply). The design spectrum contains the displacement spectrum, pseudo-velocity spectrum and pseudo-acceleration spectrum.
+				These are all inter-related quantities but the most important for this approach is the pseudo-acceleration spectrum.
+				Put simply, it is a plot of the peak acceleration a structure will experience under a given ground motion for a set damping ratio as a function of the natural period.
+				So, once the natural frequency and corresponding mode shape is known, design can be computed for the peak acceleration value found in the pseudo-acceleration plot.
+				This design saves having to solve any differential equations of motion but is still dynamic in nature as it involves natural frequencies and mode shapes.
+				Then, through statistically combining the contribution of each mode of the structure, response quantities, such as total deformation can be calculated. 
+				</p>
+				
+				<h1>Want to learn more?</h1>
+				<p>If you are interested in seismic design or any of the above approaches discussed, or have any of your own ideas regarding seismic design,
+				feel free to send us an email on our <a href="contact.php">Contact Us</a> page, we would love to have a chat with you!
+				</p>
+			</div><!--End of the Content-->
+
+		<!--============================= F O O T E R  =======================================-->
+		<footer>
+			<div id="widget1">
+				<a href="index.html"><img src="images/seismic-logo.jpg" alt="Seismic" /></a>
+			</div>
+			<div id="widget3">
+				<h1>Explore</h1>
+				<div id="footerarticle">
+					<a href="design-meetings.html"><img src="images/announcement-1.jpg" alt="Design Meetings" />
+					<div id="fainfo">
+					<h2>Design Meetings</h2>
+					<p></p></a>
+					</div>
+				</div>				
+				<div id="footerarticle">
+					<a href="graduate-seminars.html"><img src="images/announcement-2.jpg" alt="Graduate Seminars" />
+					<div id="fainfo">
+					<h2>Graduate Seminars</h2>
+					<p></p></a>
+					</div>
+				</div>				
+				<div id="footerarticle">
+					<a href="guest-lectures.html"><img src="images/announcement-3.jpg" alt="Guest Lectures" />
+					<div id="fainfo">
+					<h2>Guest Lectures</h2>
+					<p></p></a>
+					</div>
+				</div>				
+				<div id="footerarticle">
+					<a href="team-bonding.html"><img src="images/announcement-4.jpg" alt="Team Bonding" />
+					<div id="fainfo">
+					<h2>Team Bonding</h2>
+					<p></p></a>
+					</div>
+				</div>
+			</div>
+		</footer>
+                   <div id="widgetA">
+				<a href="https://www.facebook.com/University-of-Toronto-Seismic-Design-Team-784888368289699" target = "blank">
+				<img src="images/facebook-128.png" alt="Facebook" />
+
+			</div>
+                        <div id="widgetA">
+				<a href="https://www.linkedin.com/groups/8462685/profile" target = "blank">
+				<img src="images/linkedin-128.png" alt="LinkedIn" />
+
+			</div>
+                        <div id="widgetA">
+				<a href="https://www.youtube.com/channel/UCugrQkMvhnQnwLsrQ_8Cvxg" target = "blank">
+				<img src="images/youtube-128.png" alt="Youtube" />
+
+			</div>
+	</div>
+</body>
+</html>

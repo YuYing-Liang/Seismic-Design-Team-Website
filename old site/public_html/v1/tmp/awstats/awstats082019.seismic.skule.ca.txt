@@ -1,0 +1,486 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201908 will be lost/reset.
+# Last config file used to build this data file was /home/seismic/tmp/awstats/awstats.seismic.skule.ca.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2012                
+POS_TIME 2691                
+POS_VISITOR 9528                
+POS_DAY 12667               
+POS_DOMAIN 3546                
+POS_LOGIN 4022                
+POS_ROBOT 4177                
+POS_WORMS 5069                
+POS_EMAILSENDER 5200                
+POS_EMAILRECEIVER 5343                
+POS_SESSION 13451               
+POS_SIDER 13657               
+POS_FILETYPES 5478                
+POS_DOWNLOADS 5694                
+POS_OS 5888                
+POS_BROWSER 6124                
+POS_SCREENSIZE 6761                
+POS_UNKNOWNREFERER 6835                
+POS_UNKNOWNREFERERBROWSER 7115                
+POS_ORIGIN 7305                
+POS_SEREFERRALS 7446                
+POS_PAGEREFS 7629                
+POS_SEARCHWORDS 7986                
+POS_KEYWORDS 8138                
+POS_MISC 2355                
+POS_ERRORS 8197                
+POS_CLUSTER 3878                
+POS_SIDER_404 8299                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20190901001551 87 20600 12313451262454
+FirstTime 20190801043317
+LastTime 20190831081913
+LastUpdate 20190901080935 87 0 86 0 0
+TotalVisits 82                  
+TotalUnique 52                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 88                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 4 2889170 20 45 23560490
+1 10 34 1409376 10 25 1947464
+2 2 55 79109909 13 52 52067461
+3 4 23 31803719 10 33 19171210
+4 9 122 186611133 10 42 25725785
+5 2 23 55202181 9 38 14644585
+6 1 14 11723 12 34 4709936
+7 0 1 1937299 15 23 215728
+8 9 83 103776224 20 41 7738011
+9 3 26 39709578 12 22 5604016
+10 4 5 183633 5 11 4405212
+11 11 174 257913467 13 32 1841272
+12 5 95 155795352 12 33 746249
+13 8 106 181341616 5 23 1126377
+14 4 36 33319109 21 44 6360946
+15 3 55 54786626 8 16 116121
+16 6 57 54768813 13 36 5684727
+17 0 0 0 9 23 11993563
+18 5 78 106839889 14 38 14199433
+19 2 21 21224138 27 81 5079829
+20 6 7 98485 11 28 7490356
+21 16 134 230367049 10 31 4664657
+22 74 327 340333105 5 15 6203203
+23 16 36 45034512 15 26 27280560
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 17
+hk 78 333 372102966
+ca 68 669 933143408
+us 29 356 471091525
+ru 13 13 200525
+sg 3 51 94774167
+nl 3 3 31427
+ua 2 2 21470
+ro 1 8 22204253
+ir 1 19 31390183
+cl 1 27 39537923
+de 1 16 19268286
+gb 1 7 11197
+fr 1 2 152206
+zz 0 7 526
+pl 0 1 61254
+mx 0 1 61254
+kh 0 1 413536
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 19
+bingbot/ 194 148666132 20190831203602 0
+Googlebot/ 76 980250 20190831232809 0
+bingpreview 63 1285190 20190831021236 0
+SemrushBot/ 49 985895 20190830184044 0
+bot[\s_+:,\.\;\/\\-] 34 661032 20190821190944 0
+Googlebot\-Image/ 29 28456097 20190823192148 0
+facebookexternalhit/ 18 39628791 20190824120331 0
+AhrefsBot/ 16 231930 20190827010205 0
+Applebot/ 13 211915 20190830150854 0
+YandexBot/ 7 106408 20190827042057 0
+crawl 7 105630 20190825074502 0
+LinkedInBot/ 4 1067484 20190829124610 0
+no_user_agent 4 9359140 20190829182430 0
+YandexImages/ 2 6659157 20190829215145 0
+java 2 21470 20190809190341 0
+DotBot/ 1 10735 20190814161732 0
+DuckDuckGo\-Favicons\-Bot/ 1 10735 20190813204804 0
+Mail\.RU_Bot/ 1 10735 20190815053532 0
+Discordbot/ 1 61254 20190825142402 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+gif 25 211900 0 0
+txt 13 988 0 0
+jpg 708 1918010836 0 0
+html 194 2480336 0 0
+png 318 58589212 0 0
+php 8 74664 0 0
+js 72 3460212 0 0
+css 178 1637958 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 2
+/.well-known/pki-validation/8DB3916DA387B4EEB118FC89A72B1B03.txt 12 0 924
+/.well-known/pki-validation/C6E07D00372BC09C253417813120AE98.txt 1 0 64
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 13
+macosx6 1 1
+ios_iphone 132 15
+macosx10 10 2
+win8 3 3
+macosx 174 12
+linux 103 5
+winxp 12 12
+win10 927 136
+Unknown 23 5
+macosx11 1 1
+linuxandroid 40 2
+win7 3 3
+win8.1 87 5
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 30
+firefox21.0 1 1
+msie11.0 1 0
+safari8.0 2 2
+safari12.1.2 64 4
+firefox64.0 2 2
+chrome63.0.3239.132 3 3
+chrome70.0.3538.102 30 30
+chrome71.0.3578.80 3 3
+firefox62.0 1 1
+firefox52.0 1 1
+mozilla 1 1
+Unknown 22 4
+chrome75.0.3770.143 1 0
+safari12.1.1 109 13
+chrome65.0.3325.162 1 1
+opera62.0.3331.99 28 1
+msie6.0 12 12
+chrome75.0.3770.142 415 75
+chrome76.0.3809.100 514 31
+firefox25.0 1 1
+chrome76.0.3809.132 19 1
+firefox60.0 1 0
+iphone 16 1
+edge18 28 1
+opera62.0.3331.116 64 6
+chrome38.0.2125.102 1 0
+chrome67.0.3396.99 27 1
+chrome72.0.3626.109 102 4
+chrome76.0.3809.111 38 2
+firefox38.0 8 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+Photon/1.0 20190829004046
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20190803083400
+COMODO_DCV 20190830063107
+panscient.com 20190826161450
+ia_archiver 20190804135659
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+Photon/1.0 20190829004046
+ia_archiver 20190804135659
+panscient.com 20190826161450
+COMODO_DCV 20190830063107
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 45 75
+From1 0 0
+From2 18 37
+From3 37 37
+From4 102 1367
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+www_google_ca 3 3
+www_google_com 15 34
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 6
+http://civmin.utoronto.ca 10 10
+https://engsci.utoronto.ca 10 10
+https://staging.engsci.utoronto.ca 10 10
+http://www.skule.ca/design_teams 5 5
+http://skule.ca/design_teams 1 1
+http://lm.facebook.com/l.php 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+404 226 0
+206 20 14057211
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 29
+/team-bonding.html 1 -
+/cms/wp-includes/wlwmanifest.xml 2 -
+/https://www.zerotheme.com 1 -
+/1516tower.html 1 -
+/wp/wp-includes/wlwmanifest.xml 2 -
+/downloader/ 1 -
+/wp-includes/wlwmanifest.xml 2 -
+/admin/ 1 -
+/guest-lectures.html 2 -
+/rss/order/new/ 1 -
+/graduate-seminars.html 3 -
+/portfolio.html 1 -
+/https://www.facebook.com/University-of-Toronto-Seismic-Design-Team-784888368289699 1 -
+/https://www.linkedin.com/groups/8462685/profile 1 -
+/robots.txt 175 -
+/1617tower.html 4 -
+/site/wp-includes/wlwmanifest.xml 2 -
+/https://www.youtube.com/channel/UCugrQkMvhnQnwLsrQ_8Cvxg 1 -
+/wp-login.php 2 -
+/xmlrpc.php 3 -
+/blog/wp-includes/wlwmanifest.xml 2 -
+/sitemap.xml 2 -
+/design-meetings.html 1 -
+/analysis.html 7 -
+/wordpress/wp-includes/wlwmanifest.xml 2 -
+/update.php 2 -
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/rss/catalog/notifystock/ 1 -
+/https://slc.eeri.org/2019-seismic-design-competition/ 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 88
+143.89.139.103 68 281 298267907 20190807224648
+142.1.176.100 20 20 0 20190831030353
+142.1.176.20 10 10 0 20190829232906
+49.130.128.81 8 37 62519079 20190807223816
+70.48.238.173 7 103 159028179 20190820141721
+138.51.122.30 6 64 95883523 20190811111807
+5.188.211.22 6 6 94895 20190821202134
+5.188.211.35 6 6 94895 20190816012001
+68.230.134.36 5 64 95908253 20190831081913
+188.166.116.151 3 3 31427 20190829101653
+24.114.74.126 3 52 54513079 20190826225945
+99.235.35.34 3 47 94762611 20190807214055
+209.183.130.210 3 52 54513079 20190814153437
+38.88.33.170 3 52 54513079 20190814163309
+220.255.210.217 3 51 94774167 20190809050127
+207.164.146.2 3 51 82079776 20190815120059
+100.35.75.170 3 3 43441 20190826161450
+66.249.88.7 2 16 24927198 20190824123909
+70.52.140.31 2 40 53389728 20190828181408
+175.159.121.220 2 15 11315980 20190807223106
+134.87.154.242 2 36 53378172 20190802183408
+194.61.24.29 2 2 21470 20190819140456
+206.248.180.26 2 40 53389728 20190827111707
+99.230.47.79 2 37 75654846 20190829220356
+136.159.213.89 1 18 27434186 20190829114140
+10.1.0.150 0 7 526 
+65.95.229.209 0 1 3590 
+2.176.140.222 1 19 31390183 20190809034458
+45.35.198.198 0 1 61254 
+204.108.77.41 1 11 13344260 20190829124934
+66.249.84.67 0 22 30882529 
+192.0.118.148 0 1 1515873 
+198.16.74.45 1 19 31390183 20190810132034
+66.249.84.72 1 9 17247240 20190824220540
+66.102.6.44 0 8 836313 
+189.211.214.145 0 1 61254 
+76.68.163.196 0 1 151039 
+67.68.0.178 0 1 61254 
+75.50.85.21 0 3 1919686 
+24.114.60.239 1 16 7835142 20190808085616
+198.96.85.50 0 1 151039 
+99.240.134.149 1 19 41561272 20190806232108
+5.196.64.109 1 1 10735 20190816231623
+45.35.196.58 0 1 61254 
+37.148.60.82 1 8 22204253 20190810132134
+45.35.205.42 0 1 61254 
+66.102.6.42 0 8 169165 
+165.227.44.244 1 1 10735 20190805102755
+192.0.98.182 0 1 1937299 
+151.145.243.21 0 1 151039 
+35.240.25.187 1 1 10735 20190811195407
+66.119.166.233 0 1 61254 
+54.175.74.27 1 1 21347 20190809090149
+54.165.90.203 1 1 10735 20190804135659
+192.0.102.116 0 1 1362562 
+90.73.207.106 0 1 141471 
+45.35.198.194 0 2 122508 
+66.102.6.40 1 9 309003 20190805014934
+163.172.162.215 1 1 10735 20190823081803
+3.85.224.118 1 1 10735 20190827063239
+66.244.250.210 0 1 61254 
+192.0.102.50 0 1 1515873 
+74.3.178.98 0 1 61254 
+178.42.93.53 0 1 61254 
+5.188.211.100 1 1 10735 20190821184008
+192.0.114.84 0 1 1937299 
+191.101.215.73 1 27 39537923 20190826024324
+66.249.88.10 0 13 29010488 
+45.35.205.58 0 1 61254 
+66.102.8.4 0 10 7251667 
+66.102.8.8 1 5 133638 20190816025053
+129.59.122.135 0 1 1515873 
+72.139.103.142 0 1 25431 
+45.35.205.190 0 2 122508 
+204.108.77.111 0 17 26227726 
+144.191.148.11 1 23 39526457 20190812093608
+35.183.60.188 1 1 10735 20190815004407
+54.86.66.252 1 1 11359 20190809085842
+54.250.87.247 1 1 10735 20190815095710
+117.20.115.214 0 1 413536 
+66.249.88.4 0 9 21717440 
+167.71.104.144 1 1 10735 20190803083400
+144.76.228.6 1 16 19268286 20190825195017
+91.199.212.132 0 6 462 
+66.102.8.6 0 13 32186681 
+66.249.84.70 1 18 33013377 20190824220540
+135.23.73.18 1 28 39571986 20190808220236
+138.51.116.224 1 28 39571986 20190811110837
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20190801 10 97 147052070 2
+20190802 4 39 53529211 3
+20190803 2 4 177637 2
+20190804 1 1 10735 1
+20190805 4 29 1476255 4
+20190806 2 20 41561272 2
+20190807 71 284 319817097 4
+20190808 4 46 47407128 4
+20190809 7 74 126348095 5
+20190810 2 27 53594436 2
+20190811 10 96 137403543 5
+20190812 1 23 39526457 1
+20190813 1 2 1515873 1
+20190814 8 106 109026158 4
+20190815 5 54 82514782 3
+20190816 9 36 39677616 4
+20190817 2 2 0 2
+20190819 3 3 21470 2
+20190820 9 105 159028179 3
+20190821 7 7 105630 2
+20190822 1 3 122508 1
+20190823 3 3 10735 3
+20190824 4 88 158314145 3
+20190825 2 26 19819572 2
+20190826 9 85 94155697 5
+20190827 3 43 56853635 2
+20190828 3 41 53389728 2
+20190829 9 93 146035947 6
+20190830 0 13 988 0
+20190831 6 66 95969507 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+0s-30s 66
+2mn-5mn 2
+1h+ 1
+5mn-15mn 5
+30mn-1h 1
+15mn-30mn 1
+30s-2mn 6
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 7
+/ 86 590359 71 54
+/design.html 73 1217137 2 13
+/about.html 19 215821 5 7
+/sponsors.html 14 435549 1 1
+/contact.php 8 74664 1 5
+http://seismic.skule.ca/ 1 10735 1 1
+// 1 10735 1 1
+END_SIDER

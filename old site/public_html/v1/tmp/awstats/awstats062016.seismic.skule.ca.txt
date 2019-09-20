@@ -1,0 +1,371 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201606 will be lost/reset.
+# Last config file used to build this data file was /home/seismic/tmp/awstats/awstats.seismic.skule.ca.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2012                
+POS_TIME 2689                
+POS_VISITOR 7946                
+POS_DAY 9196                
+POS_DOMAIN 3405                
+POS_LOGIN 3758                
+POS_ROBOT 3913                
+POS_WORMS 4392                
+POS_EMAILSENDER 4523                
+POS_EMAILRECEIVER 4666                
+POS_SESSION 9757                
+POS_SIDER 9935                
+POS_FILETYPES 4801                
+POS_DOWNLOADS 4959                
+POS_OS 5007                
+POS_BROWSER 5213                
+POS_SCREENSIZE 5561                
+POS_UNKNOWNREFERER 5635                
+POS_UNKNOWNREFERERBROWSER 5792                
+POS_ORIGIN 5975                
+POS_SEREFERRALS 6112                
+POS_PAGEREFS 6267                
+POS_SEARCHWORDS 6642                
+POS_KEYWORDS 6794                
+POS_MISC 2353                
+POS_ERRORS 6853                
+POS_CLUSTER 3614                
+POS_SIDER_404 6966                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20160701001933 13 1930 8257432932464
+FirstTime 20160601150851
+LastTime 20160630155156
+LastUpdate 20160701041854 13 0 12 0 0
+TotalVisits 45                  
+TotalUnique 27                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 31                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 13 233150 26 29 123860
+1 1 1 0 22 29 101423
+2 1 1 0 21 24 110751
+3 1 1 0 11 14 45390
+4 0 0 0 22 32 384538
+5 1 1 0 20 25 49544
+6 1 1 0 18 21 80509
+7 1 1 0 34 58 526674
+8 4 31 477401 30 35 110041
+9 0 0 0 28 33 140794
+10 2 16 342703 35 40 144879
+11 20 81 1974383 66 75 325120
+12 2 2 0 30 36 166629
+13 1 1 6193 30 36 183743
+14 9 44 1325866 30 35 138156
+15 11 64 2262027 42 59 158522
+16 7 46 6240182 35 45 403956
+17 1 1 0 26 34 155080
+18 0 0 0 34 42 238185
+19 5 20 403266 35 43 159495
+20 2 2 6193 25 34 200306
+21 1 15 342703 29 36 190680
+22 18 65 1139942 30 37 128530
+23 1 1 0 33 36 161018
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 10
+ca 49 265 12443530
+us 32 64 801111
+in 3 29 456487
+ua 2 2 12386
+ir 1 15 342703
+fr 1 1 0
+ro 1 15 342703
+sg 1 15 342703
+gb 1 1 6193
+jp 1 1 6193
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 9
+googlebot 370 1620999 20160630234551 0
+bot[\s_+:,\.\;\/\\-] 28 676406 20160627024455 0
+no_user_agent 17 99410 20160620124556 0
+php 17 216375 20160630200843 0
+bingpreview 14 336510 20160622070959 0
+spider 14 81485 20160613152831 0
+[\s_+:,\.\;\/\\-]bot 11 72433 20160627105815 0
+slurp 11 34599 20160630104032 0
+googlebot\-image 2 0 20160628142236 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+php 8 33089 0 0
+css 16 235536 0 0
+jpg 181 12534453 0 0
+png 119 1560072 0 0
+html 84 390859 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 11
+linux 15 1
+win8.1 45 3
+winxp 14 14
+macosx9 1 0
+winnt 123 14
+winlong 2 1
+linuxandroid 17 2
+Unknown 2 2
+win7 95 19
+java 59 29
+ios_iphone 35 7
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 16
+chrome51.0.2704.84 28 3
+msie9.0 12 10
+msie11.0 55 6
+opera36.0.2130.32 2 2
+chrome50.0.2661.102 16 1
+Unknown 60 30
+firefox47.0 39 4
+safari 15 1
+chrome50.0.2661.86 17 2
+safari9.1.1 1 0
+firefox3.6 1 1
+firefox6.0.2 14 14
+chrome51.0.2704.103 97 9
+chrome47.0.2526.111 15 1
+safari9.0 35 7
+netscape5.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+ltx71_-_(http://ltx71.com/) 20160619142204
+Mozilla/5.0 20160607163646
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+Java/1.7.0_05 20160625223631
+ltx71_-_(http://ltx71.com/) 20160619142204
+Java/1.4.1_04 20160610113208
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 56 86
+From1 0 0
+From2 7 9
+From3 11 11
+From4 18 302
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 7 9
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 4
+http://civil.engineering.utoronto.ca 8 8
+http://engsci.utoronto.ca/news/engscis-keep-it-rock-steady/ 1 1
+http://engsci.utoronto.ca/news/engsci-mover-and-shaker-recognized-with-leadership-award/ 1 1
+https://www.facebook.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+404 191 0
+302 2 7655
+206 207 1281951
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 17
+/libs/contact.php 1 -
+/wp/ 1 -
+/fonts/OpenSans-Regular-webfont.woff 31 http://seismic.skule.ca/contact.php
+/contact.html 5 -
+/fonts/OpenSans-Regular-webfont.eot 3 http://seismic.skule.ca/
+/wordpress/ 1 -
+/blog/robots.txt 1 -
+/https://www.youtube.com/channel/UCugrQkMvhnQnwLsrQ_8Cvxg 1 -
+/robots.txt 99 -
+/fonts/OpenSans-Regular-webfont.svg 9 http://seismic.skule.ca/contact.php
+/blog/ 1 -
+/bitrix/admin/index.php 1 -
+/https://www.facebook.com/University-of-Toronto-Seismic-Design-Team-784888368289699 1 -
+/libs/about.html 1 -
+/fonts/OpenSans-Regular-webfont.ttf 33 http://seismic.skule.ca/contact.php
+/https://www.linkedin.com/groups/8462685/profile 1 -
+/xmlrpc.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 31
+75.149.172.109 15 30 327933 20160625223623
+198.199.7.121 14 29 323236 20160610113059
+142.1.176.20 8 8 0 20160628075120
+104.193.88.245 6 6 0 20160625145436
+128.100.201.178 5 40 1324370 20160614154903
+184.151.179.233 5 23 937657 20160601152130
+76.64.100.110 4 39 1319673 20160629140226
+104.193.88.243 4 4 0 20160630155156
+104.193.88.244 3 3 0 20160629233938
+115.187.33.242 3 29 456487 20160622083026
+64.231.211.92 3 28 5891286 20160610165451
+174.95.68.69 3 20 883287 20160621112502
+178.137.87.242 2 2 12386 20160618191424
+72.137.15.205 2 17 390880 20160606190449
+99.250.201.87 2 12 218429 20160607000839
+99.225.165.167 2 33 750755 20160622223227
+204.79.180.129 1 1 6193 20160626081938
+210.232.15.30 1 1 6193 20160629200648
+160.96.214.146 1 15 342703 20160616213314
+52.3.127.144 1 1 6193 20160619142204
+52.53.196.85 1 15 342703 20160619110719
+204.79.180.43 1 1 6193 20160618000028
+82.78.93.119 1 15 342703 20160608101746
+37.63.187.144 1 15 342703 20160629111757
+62.210.181.15 1 1 0 20160607163646
+204.79.180.30 0 1 14721 
+204.79.180.61 0 1 14721 
+104.158.198.135 0 1 61254 
+204.186.34.74 0 1 82454 
+128.100.112.119 1 15 342703 20160606163348
+163.172.14.55 1 1 6193 20160603163919
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 24
+20160601 5 23 937657 1
+20160602 2 2 0 2
+20160603 2 2 6193 2
+20160605 2 2 6193 2
+20160606 4 33 733583 3
+20160607 2 12 212236 2
+20160608 2 16 342703 2
+20160609 1 2 61254 1
+20160610 17 57 6214522 2
+20160612 1 1 0 1
+20160613 1 1 0 1
+20160614 5 40 1324370 1
+20160616 2 16 342703 2
+20160617 1 1 0 1
+20160618 3 4 33300 2
+20160619 3 17 348896 3
+20160620 1 1 0 1
+20160621 4 21 883287 2
+20160622 6 64 1289696 3
+20160625 18 33 327933 4
+20160626 1 2 20914 1
+20160628 1 1 0 1
+20160629 7 56 1668569 4
+20160630 1 1 0 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+30s-2mn 4
+2mn-5mn 1
+0s-30s 39
+5mn-15mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 14
+/ 47 154825 43 34
+/about.html 8 58384 1 1
+/contact.php 7 32879 0 4
+/sponsors.html 6 59532 1 2
+/design-meetings.html 4 19176 0 1
+/portfolio.html 4 18240 0 0
+/team.html 3 19062 0 1
+/guest-lectures.html 2 8444 0 0
+/team-bonding.html 2 8556 0 0
+/analysis.html 2 14814 0 0
+/graduate-seminars.html 2 9112 0 0
+/construction.html 2 12362 0 0
+/1516tower.html 2 8352 0 1
+/libs/thanks.php 1 210 0 1
+END_SIDER

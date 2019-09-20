@@ -1,6 +1,250 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins:400,700|Roboto|Roboto+Mono&display=swap");
+
+* {
+  font-family: 'Poppins';
+}
+
+body{
+  overflow-x: hidden;
+}
+
+body, html {
+  height: 100%;
+}
+
+.nav-item .nav-link, .dropdown-toggle{
+  font-weight: 700;
+  /* color: rgb(6, 41, 88); */
+  background-color: transparent;
+  border: none;
+  padding: 0.85rem;
+  transition: color 0.1s ease-in-out;
+  color: black !important;
+  text-transform: uppercase;
+}
+
+.nav-item .active{
+  border-top: 1px solid #dee2e6;
+  border-right: 1px solid #dee2e6;
+  border-left: 1px solid #dee2e6;
+  background-color: white;
+}
+
+.nav-item .non-active{
+  background-color: transparent;
+  border: none;
+}
+
+.nav-link:hover {
+  color: rgb(6, 41, 88) !important;
+}
+
+.dropdown-toggle {
+  background: none;
+  color:grey;
+}
+
+.dropdown-toggle:hover, .dropdown-toggle:focus, .dropdown-toggle:active{
+  background: none !important;
+  color: rgb(6, 41, 88) !important;
+}
+
+.dropdown-item:hover{
+  background-color:  rgba(6, 41, 88, 0.5)
+}
+.parallax{
+  width: 100%;
+  height: 700px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-y: 0%;
+  position: relative;
+}
+
+@media only screen and (max-width: 1024px){
+  .team {
+    background-position-x: 0%;
+    background-position-y: 5%;
+    background-size: 100%;
+    background-attachment: scroll;
+    height: 300px;
+  }
+
+
+}
+
+.image-row{
+  width: 100%;
+  height: auto;
+  /* max-height: 15rem; */
+}
+
+.home {
+  background-image: url("images/main.jpg");
+}
+
+.team {
+  background-image: url("images/Team/group_photo_2018.jpg");
+}
+
+.design{
+  background-image: url("images/Design/design.jpg");
+}
+
+.main-quote {
+  background-color: white;
+  position: absolute;
+  z-index: 10;
+}
+
+#welcome, #design, #team{
+  color: white;
+  position: absolute;
+  z-index: 10;
+}
+
+#design {color: white;}
+
+.left-quote {
+  top: 10%;
+  left: 5%;
+  max-width: 20rem;
+  max-height: 20rem;
+  text-overflow: none;
+}
+
+.right-quote {
+  top: 10%;
+  right: 5%;
+  width: 30rem;
+}
+
+@media(max-width: 750px){
+  .right-quote {
+    right: 0;
+    top: 35%;
+    width: 100%;
+  }
+
+  #welcome, #design {
+    color: black;
+    font-size: 3rem;
+  }
+
+  .bottom-quote {
+    left: 0;
+    top: 35%;
+  }
+}
+
+.bottom-quote {
+  bottom: 25%;
+  left: 15%;
+}
+
+.profile {
+  width: 100%;
+}
+
+.card-image-top {
+  width: 100%;
+  height: auto;
+}
+
+.card-image-left {
+  height: 100%;
+  width: auto;
+}
+
+.footer{
+  background-color:  rgb(5, 27, 56);
+  color: bisque;
+  padding: 2.5rem 4.5rem;
+  margin: 0;
+}
+
+.footer a{
+  color: bisque;
+  transition: 0.1s color ease-in-out;
+  text-decoration: none;
+}
+
+.footer a:hover{
+  color: lightslategrey;
+}
+
+.big-font{
+  font-size: 400%;
+  font-weight: 700;
+  line-height: 75%;
+}
+
+@media(max-width: 450px){
+  .big-font{
+    font-size: 150%;
+  }
+}
+
+.des {
+  border: none;
+}
+
+.www-des{
+  font-size: 1.25rem;
+}
+
+@media(max-width: 450px){
+  .www-des{
+    font-size: 0.75rem;
+    padding: 0;
+  }
+}
+
 .App {
   text-align: center;
 }
+
+/* gallery css */
+
+.gallery {
+  /* width: 100%; */
+  -webkit-column-count: 3;
+  -moz-column-count: 3;
+  column-count: 3;
+  -webkit-column-width: 33%;
+  -moz-column-width: 33%;
+  column-width: 33%; 
+  margin: 3rem;
+}
+.gallery .pics {
+  -webkit-transition: all 350ms ease;
+  transition: all 350ms ease; 
+}
+  .gallery .animation {
+  -webkit-transform: scale(1);
+  -ms-transform: scale(1);
+  transform: scale(1); }
+  
+  @media (max-width: 450px) {
+    .gallery {
+    -webkit-column-count: 1;
+    -moz-column-count: 1;
+    column-count: 1;
+    -webkit-column-width: 100%;
+    -moz-column-width: 100%;
+    column-width: 100%;
+    margin: 0;
+    padding: 0;
+    }
+  }
+  @media (max-width: 400px) {
+  .btn.filter {
+  padding-left: 1.1rem;
+  padding-right: 1.1rem;
+  }
+  }
 
 .App-logo {
   animation: App-logo-spin infinite 20s linear;

@@ -1,0 +1,439 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201508 will be lost/reset.
+# Last config file used to build this data file was /home/seismic/tmp/awstats/awstats.seismic.skule.ca.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2012                
+POS_TIME 2693                
+POS_VISITOR 10377               
+POS_DAY 12058               
+POS_DOMAIN 3473                
+POS_LOGIN 3740                
+POS_ROBOT 3895                
+POS_WORMS 4189                
+POS_EMAILSENDER 4320                
+POS_EMAILRECEIVER 4463                
+POS_SESSION 12690               
+POS_SIDER 12901               
+POS_FILETYPES 4598                
+POS_DOWNLOADS 4766                
+POS_OS 4814                
+POS_BROWSER 5042                
+POS_SCREENSIZE 5550                
+POS_UNKNOWNREFERER 5624                
+POS_UNKNOWNREFERERBROWSER 5842                
+POS_ORIGIN 5985                
+POS_SEREFERRALS 6125                
+POS_PAGEREFS 6269                
+POS_SEARCHWORDS 6472                
+POS_KEYWORDS 6624                
+POS_MISC 2357                
+POS_ERRORS 6683                
+POS_CLUSTER 3596                
+POS_SIDER_404 6806                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20150901061030 284 66620 9488230356283
+FirstTime 20150801104319
+LastTime 20150831235050
+LastUpdate 20150901081539 284 0 283 0 0
+TotalVisits 156                 
+TotalUnique 34                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 42                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 81 296 723043 30 68 24689
+1 99 696 3049328 48 90 64607
+2 204 782 2319776 119 124 8427
+3 130 410 757335 53 100 85907
+4 74 266 632011 17 101 0
+5 25 128 758790 13 13 0
+6 8 8 42129 0 0 0
+7 14 51 802518 34 35 0
+8 16 64 638569 10 13 5656
+9 22 64 944078 15 16 0
+10 25 72 562982 17 41 8904
+11 64 166 2025687 28 345 0
+12 47 118 600903 30 47 5656
+13 140 853 1675355 124 159 0
+14 283 924 3327219 73 114 0
+15 175 361 1953997 115 247 80848
+16 9 9 27915 3 11 17858
+17 48 125 785884 17 54 203465
+18 26 69 149030 15 23 0
+19 30 89 741298 20 43 0
+20 74 265 1400423 23 120 2807
+21 92 406 1792936 68 72 12683
+22 176 602 1793985 109 187 0
+23 270 793 4269379 132 211 12005
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 3
+ca 1894 6832 26624758
+us 234 767 4526472
+hk 4 18 623340
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+php 27 180890 20150829015222 0
+googlebot\-image 9 55690 20150831210544 0
+googlebot 4 33045 20150831170639 0
+google[_+\s]web[_+\s]preview 2 24689 20150806003525 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+php 468 1661368 0 0
+css 828 2548075 0 0
+png 166 2618304 0 0
+html 1664 4100805 0 0
+jpg 4491 20846018 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 11
+linuxandroid 379 147
+ios_iphone 86 29
+winnt 5214 1406
+win7 170 54
+macosx 76 76
+winunknown 2 2
+win8 19 5
+macosx9 50 25
+win8.1 1528 349
+Unknown 40 32
+ios_ipad 53 7
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 21
+safari7.0.3 50 25
+chrome44.0.2403.125 19 16
+safari7.0 106 21
+chrome44.0.2403.117 64 15
+microsoft\-webdav\-miniredir 2 2
+firefox40.0 16 3
+chrome44.0.2403.130 1176 334
+chrome44.0.2403.155 2460 703
+firefox38.0 82 11
+chrome44.0.2403.107 14 11
+iphone 33 15
+msie11.0 123 21
+mozilla 5 5
+chrome44.0.2403.157 2844 651
+chrome42.0.2311.135 61 17
+msie10.0 113 40
+chrome44.0.2403.90 259 125
+chrome44.0.2403.89 23 7
+safari8.0 76 76
+chrome44.0.2403.133 56 7
+Unknown 35 27
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Google_favicon 20150831194254
+visionutils/0.2 20150829015222
+Mozilla/5.0_(compatible;_Google-Site-Verification/1.0) 20150831152316
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Google_favicon 20150831194254
+visionutils/0.2 20150829015222
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 471 480
+From1 0 0
+From2 0 0
+From3 7 7
+From4 1654 7130
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+https://www.facebook.com 4 4
+http://m.facebook.com 3 3
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+302 93 65747
+206 29 173451
+301 28 0
+404 1904 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 74
+/ 7 -
+/robots.txt 1 -
+/images/p1.jpg 46 http://seismic.skule.ca/portfolio.html
+/libs/index.html 2 -
+/fonts/OpenSans-Regular-webfont.eot 59 http://seismic.skule.ca/
+/js/slides.min.jquery.js 32 http://seismic.skule.ca/
+/images/.jpg 1 http://seismic.skule.ca/portfolio.html
+/images/f1.jpg 42 http://seismic.skule.ca/
+/images/logo.png 4 http://seismic.skule.ca/about.html
+/img/9.jpg 33 http://seismic.skule.ca/
+/images/comments-bp.png 2 http://seismic.skule.ca/style.css
+/img/map.jpg 1 -
+/works.html 2 -
+/img/4.jpg 33 http://seismic.skule.ca/
+/browserconfig.xml 4 -
+/libs/home.php 3 -
+/images/bp-img3.jpg 10 http://seismic.skule.ca/team.html
+/images/bp-img.jpg 10 http://seismic.skule.ca/team.html
+/blog.html 1 http://seismic.skule.ca/contact.html
+/images/randomstuff.jpg 42 http://seismic.skule.ca/
+/images/man-silhouette.jpg 1 http://seismic.skule.ca/team.html
+/css/style.css 11 http://seismic.skule.ca/
+/images/post1.jpg 20 http://seismic.skule.ca/about.html
+/cgi-bin/ 1 http://seismic.skule.ca/
+/images/meeting-comic.jpg 1 http://seismic.skule.ca/design-meetings.html
+/images/4.jpg 3 http://seismic.skule.ca/
+/img/stripes.png 12 http://seismic.skule.ca/style.css
+/images/2.jpg 3 http://seismic.skule.ca/
+/images/comments.png 4 http://seismic.skule.ca/style.css
+/contact.html 16 http://www.seismic.skule.ca/portfolio.html
+/contact.php 1 http://seismic.skule.ca/contact.html
+/images/f2.jpg 42 http://seismic.skule.ca/
+/team.html 2 http://seismic.skule.ca/about.html
+/img/arrow.png 12 http://seismic.skule.ca/style.css
+/graph.jpg 5 http://seismic.skule.ca/about.html
+/images/f3.jpg 42 http://seismic.skule.ca/
+/login 2 -
+/balsa-wood.jpg 5 http://seismic.skule.ca/about.html
+/YouRock123 2 -
+/libs/contact.php 4 -
+/contact.ht 1 -
+/js/scripts.js 32 http://seismic.skule.ca/
+/images/bp-img2.jpg 10 http://seismic.skule.ca/team.html
+/img/5.jpg 33 http://seismic.skule.ca/
+/fonts/OpenSans-Regular-webfont.woff 408 http://seismic.skule.ca/
+/img/arrowhover.png 1 http://seismic.skule.ca/style.css
+/img/logo.png 34 http://seismic.skule.ca/
+/analysis.html 1 http://seismic.skule.ca/about.html
+/wp-admin 2 -
+/about.html 16 -
+/img/zoom.png 12 http://seismic.skule.ca/style.css
+/fonts/OpenSans-Regular-webfont.ttf 405 http://seismic.skule.ca/
+/images/yourock.png 22 http://seismic.skule.ca/contact.html
+/images/3.jpg 3 http://seismic.skule.ca/
+/elements.html 1 http://seismic.skule.ca/contact.html
+/img/10.jpg 33 http://seismic.skule.ca/
+/images/date-bp.png 2 http://seismic.skule.ca/style.css
+/images/post2.jpg 36 http://seismic.skule.ca/about.html
+/img/up.png 12 http://seismic.skule.ca/style.css
+/admin 1 -
+/images/mini-yourock.png 40 http://seismic.skule.ca/contact.html
+/img/13.jpg 33 http://seismic.skule.ca/
+/img/11.jpg 33 http://seismic.skule.ca/
+/images/date.png 4 http://seismic.skule.ca/style.css
+/images/1.jpg 3 http://seismic.skule.ca/
+/images/post3.jpg 36 http://seismic.skule.ca/about.html
+/fonts/OpenSans-Regular-webfont.svg 12 http://seismic.skule.ca/contact.php
+/img/12.jpg 33 http://seismic.skule.ca/
+/images/silhouetttes.jpg 2 http://seismic.skule.ca/about.html
+/img/6.jpg 33 http://seismic.skule.ca/
+/home.php 4 -
+/images/f4.jpg 42 http://seismic.skule.ca/
+/sponsors.html 39 http://seismic.skule.ca/
+/construction.html 1 http://seismic.skule.ca/about.html
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 42
+174.117.23.88 1190 4249 10978627 20150826213937
+64.231.211.92 158 761 3142454 20150831173319
+199.119.233.174 140 704 1192894 20150819011636
+199.7.157.83 127 322 622425 20150818102720
+108.54.157.91 125 650 3916305 20150825225252
+54.209.60.63 76 76 363913 20150831200928
+70.30.25.164 59 130 1983452 20150831194742
+199.7.157.59 51 95 146914 20150817154505
+207.219.56.130 39 112 1798392 20150826153440
+199.119.233.206 30 77 710353 20150831154011
+174.92.134.6 16 47 732033 20150819211320
+66.249.83.165 15 15 93213 20150831194254
+99.233.56.156 13 57 1001452 20150829211515
+199.119.233.221 11 42 320663 20150831235050
+199.7.157.62 10 16 23936 20150817001344
+174.114.49.122 9 77 1651315 20150826072224
+128.100.71.45 8 35 618458 20150831140149
+142.1.71.124 7 23 409928 20150821143350
+199.7.157.100 7 23 682121 20150829020518
+199.7.157.97 6 6 13528 20150817194243
+138.51.244.111 6 22 400205 20150820172101
+66.249.83.162 5 5 29076 20150823164905
+66.249.83.168 5 5 28483 20150829190113
+66.102.7.214 4 4 21812 20150831152106
+112.119.193.60 4 18 623340 20150829015333
+173.252.80.117 0 1 5198 
+173.252.80.115 0 1 5656 
+132.245.10.180 1 1 5453 20150829014343
+199.119.233.159 1 4 14349 20150820114420
+173.252.89.53 0 1 10880 
+173.252.89.55 0 1 5656 
+66.249.84.207 1 1 6892 20150817154532
+199.119.233.223 1 8 4296 20150815012400
+66.220.145.149 0 1 5198 
+199.119.233.133 1 2 4481 20150822172807
+66.220.145.154 0 1 5656 
+199.119.233.166 3 18 168387 20150819180153
+173.252.88.245 0 1 5656 
+199.119.233.148 1 2 4095 20150829133208
+173.252.79.119 0 1 10880 
+66.102.7.200 1 1 53 20150831152316
+66.249.88.230 1 1 6492 20150820100306
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 23
+20150801 28 34 114620 4
+20150806 2 2 12932 2
+20150811 4 6 62310 4
+20150812 6 13 112381 4
+20150813 6 52 254989 2
+20150814 74 226 740782 6
+20150815 147 465 332551 6
+20150816 349 1095 1702133 11
+20150817 182 422 981322 12
+20150818 284 1253 3289282 11
+20150819 100 431 1858534 10
+20150820 90 209 2549806 12
+20150821 42 155 1700947 9
+20150822 426 1815 3999008 8
+20150823 197 722 4631937 13
+20150824 23 69 871592 6
+20150825 47 253 2552577 8
+20150826 28 98 1312284 6
+20150827 1 1 5453 1
+20150828 2 13 214763 2
+20150829 19 68 2003431 6
+20150830 1 1 5453 1
+20150831 74 214 2465483 12
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 18
+5mn-15mn 15
+30s-2mn 13
+15mn-30mn 16
+2mn-5mn 9
+0s-30s 67
+30mn-1h 18
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 21
+/ 446 1310197 113 71
+/contact.php 305 1217519 7 22
+/portfolio.html 304 530960 10 15
+/about.html 302 744503 4 5
+/sponsors.html 143 218700 1 5
+/home.php 117 429575 3 4
+/team.html 103 320652 2 4
+/guest-lectures.html 65 179542 1 1
+/contact.html 63 94745 4 5
+/construction.html 55 138765 1 3
+/1516tower.html 47 117048 2 6
+/analysis.html 41 152410 1 1
+/team-bonding.html 38 110409 1 2
+/design-meetings.html 30 91684 1 4
+/graduate-seminars.html 24 91031 2 2
+/libs/thanks.php 21 3487 1 3
+/formmail.php 15 4550 0 1
+/thanks.php 4 484 0 1
+/libs/contact.php 4 5446 0 0
+/google462132646232f2f1.html 3 159 2 1
+/libs/mail.php 2 307 0 0
+END_SIDER

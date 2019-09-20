@@ -3,9 +3,19 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "bootstrap": "^4.3.1",
+    "fs": "0.0.1-security",
+    "glob": "^7.1.4",
+    "jquery": "^3.4.1",
+    "list-react-files": "^0.2.0",
     "react": "^16.9.0",
+    "react-anchor-link-smooth-scroll": "^1.0.12",
+    "react-cookie": "^4.0.1",
     "react-dom": "^16.9.0",
-    "react-scripts": "3.1.1"
+    "react-google-sheets": "^0.4.0",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "3.1.1",
+    "reactstrap": "^8.0.1"
   },
   "scripts": {
     "start": "react-scripts start",

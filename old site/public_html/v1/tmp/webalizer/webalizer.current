@@ -1,0 +1,940 @@
+# Webalizer V2.23-08 Incremental Data - 09/11/2019 08:07:09
+2019 9 11 8 7 9
+1841 1637 169 69 22 58 2550227512 232 143 0
+7 2 142 1 11
+242 164 177082235 15 61 14
+25 19 356787 15 8 7
+116 90 140767157 23 20 17
+331 300 487980778 22 27 17
+121 117 212052040 18 15 11
+198 185 299245239 21 20 12
+150 144 205626785 25 18 15
+229 212 368848884 29 24 18
+103 92 134191838 16 12 11
+228 218 377028474 21 19 16
+98 96 147047295 7 8 5
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+248 217 272790414 45
+20 16 12739500 3
+61 58 79256768 7
+93 73 137689474 13
+76 52 67926277 16
+17 12 4115666 11
+27 25 35819279 5
+4 3 7148213 1
+34 31 25952606 4
+88 84 116963234 14
+36 33 52924314 4
+30 27 39068574 5
+63 56 81403917 8
+360 328 593190467 29
+105 83 137370034 8
+12 8 1696814 3
+128 116 195481805 8
+13 5 4065720 4
+75 74 104494691 5
+66 64 116645408 6
+36 35 68851561 4
+100 96 154984318 5
+74 67 152822684 10
+75 74 86825774 14
+0
+0
+0
+1637
+0
+0
+0
+0
+0
+53
+0
+0
+0
+0
+68
+0
+0
+0
+0
+0
+0
+83
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/images/CastConnex.png
+0 4 7165897045451879479 329816 0 0
+/images/close.png
+0 24 3328216398248358145 6720 0 0
+/images/rjc.jpg
+0 9 7957702411444122158 551286 0 0
+/images/Photo11.jpg
+0 10 3689061855041564216 2149290 0 0
+/images/next.png
+0 23 7018142236608311597 31050 0 0
+/images/picco_engineering.jpg
+0 5 7020599666571029809 124375 0 0
+/images/Team/Daniel_2018.jpg
+0 18 3258128025139884589 56229306 0 0
+/images/Gallery/3.jpg
+0 41 1482754639 164665184 0 0
+/images/Photo8.jpg
+0 11 7954892334483862117 2948462 0 0
+/images/Blackwell Logo.png
+0 4 36624736 101724 0 0
+/images/Team/Liam_2018.jpg
+0 20 0 61047473 0 0
+/about.html
+0 26 0 283975 13 1
+/css/zerogrid.css
+0 53 0 179879 0 0
+/sponsors.html
+0 10 0 251088 5 4
+/images/WPM.jpg
+0 4 0 344088 0 0
+/images/Photo10.jpg
+0 13 0 19706349 0 0
+/images/Construction_1.jpg
+0 22 0 62710713 0 0
+/images/Gallery/7.jpg
+0 40 0 152048870 0 0
+/images/Gallery/10.jpg
+0 38 0 125103306 0 0
+/css/lightbox.css
+0 44 0 171512 0 0
+/images/logo.png
+0 38 0 463410 0 0
+/images/Team/Kaison_2018.jpg
+0 18 0 67293611 0 0
+/images/shaketable_2.jpg
+0 25 0 47619283 0 0
+/images/Photo13.png
+0 10 0 434300 0 0
+/images/Gallery/8.jpg
+0 34 0 50052522 0 0
+/js/script.js
+0 43 0 14233 0 0
+/images/youtube-128.png
+0 37 0 112295 0 0
+/images/associated_engineering.jpg
+0 5 0 707355 0 0
+/font-awesome/css/font-awesome.min.css
+0 45 0 800100 0 0
+/js/jquery1111.min.js
+0 45 0 4310370 0 0
+/images/linkedin-128.png
+0 38 0 100472 0 0
+/design.html
+0 65 0 925638 9 1
+/images/shake_table_3.jpg
+0 2 0 5619054 0 0
+/css/style.css
+0 46 0 615434 0 0
+/images/eng-sci.jpg
+0 4 0 222272 0 0
+/images/shaketable_3.jpg
+0 23 0 45500134 0 0
+/images/shaketable_1.jpg
+0 27 0 38639358 0 0
+/images/Photo2.png
+0 17 7166122432383758900 37552031 0 0
+/images/loading.gif
+0 24 25146104916030776 203424 0 0
+/images/Team/group_photo_2018.jpg
+0 15 3543825169413898240 180562785 0 0
+/images/civ_eng.png
+0 4 3346021065824563060 186900 0 0
+/images/Gallery/2.jpg
+0 43 3903837149319750505 304916623 0 0
+/images/Photo4.png
+0 11 88 2077724 0 0
+/css/menu.css
+0 45 3615888265257890350 358965 0 0
+/images/Photo5.jpg
+0 11 3275369708633551733 18828348 0 0
+/images/Team/Katherine_2018.jpg
+0 20 0 60299058 0 0
+/images/seismic_logo.jpg
+0 74 0 2520662 0 0
+/images/Gallery/9.jpg
+0 35 0 47689670 0 0
+/images/Team/no_head_shot.jpg
+0 17 0 23996180 0 0
+/images/Gallery/1.jpg
+0 38 0 186872296 0 0
+/images/Entuitive.png
+0 5 0 17950 0 0
+/images/main.jpg
+0 40 0 77491960 0 0
+/images/sframe.jpg
+0 5 0 2067680 0 0
+/images/Gallery/11.jpg
+0 35 0 48208111 0 0
+/
+0 124 0 1148645 114 28
+/images/Photo6.jpg
+0 10 0 2722430 0 0
+/images/Team/Kevin.jpg
+0 18 0 25698377 0 0
+/images/Team/Kota_2018.jpg
+0 19 0 61768519 0 0
+/images/Team/Phil_2018.jpg
+0 20 0 102851449 0 0
+/contact.php
+0 10 0 93330 0 0
+/images/Photo3.png
+0 12 0 13971600 0 0
+/images/Gallery/4.jpg
+0 47 0 184095028 0 0
+/images/skule.png
+0 4 0 604156 0 0
+/images/facebook-128.png
+0 37 0 83250 0 0
+/images/Photo12.jpg
+0 10 0 49176920 0 0
+/images/prev.png
+0 23 0 31280 0 0
+/images/Photo9.jpg
+0 11 0 479226 0 0
+/images/Gallery/5.jpg
+0 41 0 170136716 0 0
+/images/Photo7.jpg
+0 9 0 31101912 0 0
+# End Of Table - urls
+# -sites- (monthly)
+mail.prendos.co.nz
+0 28 28 39571986 1 1567986170
+/
+crawl-66-249-69-3.googlebot.com
+0 5 3 32205 3 1568027079
+/
+msnbot-40-77-167-46.search.msn.com
+0 2 2 20692 1 1567502493
+/about.html
+ip-54-36-150-156.a.ahrefs.com
+0 1 1 10735 1 1567393011
+/
+msnbot-157-55-39-36.search.msn.com
+0 1 0 0 0 0
+-
+msnbot-40-77-188-22.search.msn.com
+0 1 1 13379 0 0
+-
+msnbot-157-55-39-139.search.msn.com
+0 1 1 4149676 0 0
+-
+ip92.ip-198-27-121.net
+0 6 0 0 1 1567775129
+-
+msnbot-40-77-167-152.search.msn.com
+0 1 1 10735 1 1567336784
+/
+msnbot-40-77-167-124.search.msn.com
+0 1 1 4016224 0 0
+-
+msnbot-40-77-189-236.search.msn.com
+0 3 3 20948 0 0
+-
+sr-163-180-141-118-on-nets.com
+0 152 141 138265140 1 1567299852
+/design.html
+public-246-0.nat.utoronto.ca
+0 28 28 39571986 1 1567690574
+/
+crawl-66-249-69-1.googlebot.com
+0 10 5 53675 6 1568155478
+/
+msnbot-157-55-39-238.search.msn.com
+0 1 1 4372383 0 0
+-
+208.98.194.130
+0 1 1 61254 0 0
+-
+msnbot-207-46-13-176.search.msn.com
+0 1 1 4016224 0 0
+-
+msnbot-157-55-39-60.search.msn.com
+0 1 1 10735 1 1568038936
+/
+crawl14.bl.semrush.com
+0 1 0 0 0 0
+-
+jobqueue-listener.jobqueue.netcraft.com-ub5e36934d10211e9adcda8f8828d6ab1u-digitalocean-2gb
+0 1 1 10735 1 1567816799
+/
+188.209.206.177
+0 37 37 80965027 2 1567480071
+/about.html
+msnbot-207-46-13-100.search.msn.com
+0 2 0 0 0 0
+-
+17-58-101-181.applebot.apple.com
+0 1 1 10735 1 1567810773
+/
+173.252.127.10
+0 1 1 10735 1 1567913341
+/
+ip-54-36-148-38.a.ahrefs.com
+0 1 0 0 0 0
+-
+crawl-66-249-75-76.googlebot.com
+0 12 10 7209665 5 1567493674
+/design.html
+202.146.241.20
+0 1 1 61254 0 0
+-
+msnbot-157-55-39-188.search.msn.com
+0 1 0 0 0 0
+-
+msnbot-157-55-39-180.search.msn.com
+0 1 0 0 1 1567421408
+/
+public-119-187.nat.utoronto.ca
+0 45 45 76408971 1 1567789141
+/design.html
+msnbot-157-55-39-171.search.msn.com
+0 1 0 0 0 0
+-
+msnbot-207-46-13-117.search.msn.com
+0 1 1 10735 1 1567959933
+/
+crawl-66-249-69-15.googlebot.com
+0 1 1 10735 1 1567535626
+/
+crawl-66-249-64-200.googlebot.com
+0 2 1 331 1 1567930256
+/design.html
+msnbot-40-77-188-155.search.msn.com
+0 1 1 95786 0 0
+-
+msnbot-157-55-39-179.search.msn.com
+0 1 1 10735 1 1567628858
+/
+public-247-157.nat.utoronto.ca
+0 21 21 34640247 1 1567856458
+/
+mobile-166-170-005-130.mycingular.net
+0 1 1 1515873 0 0
+-
+msnbot-40-77-189-232.search.msn.com
+0 1 1 95786 0 0
+-
+public-248-158.nat.utoronto.ca
+0 50 50 102403905 1 1567810351
+/about.html
+msnbot-157-55-39-94.search.msn.com
+0 1 1 10735 1 1567778270
+/
+hydrogen044.a.ahrefs.com
+0 1 0 0 0 0
+-
+msnbot-207-46-13-165.search.msn.com
+0 1 1 10735 1 1567594858
+/
+msnbot-207-46-13-97.search.msn.com
+0 1 1 4372383 0 0
+-
+flh2-119-243-114-64.tky.mesh.ad.jp
+0 28 28 39571986 1 1567909189
+/
+msnbot-40-77-167-60.search.msn.com
+0 1 1 31386 1 1567686688
+/sponsors.html
+msnbot-157-55-39-58.search.msn.com
+0 1 1 1431276 0 0
+-
+msnbot-40-77-167-129.search.msn.com
+0 2 1 10735 1 1567859554
+/
+msnbot-157-55-39-183.search.msn.com
+0 1 0 0 0 0
+-
+public-247-6.nat.utoronto.ca
+0 70 70 137802078 2 1567950339
+/
+msnbot-40-77-167-0.search.msn.com
+0 1 1 10735 1 1567448444
+/
+msnbot-157-55-39-24.search.msn.com
+0 1 0 0 0 0
+-
+m45-64-242-197.ismart.net
+0 65 26 38594273 1 1567311723
+/design.html
+cpeac202e0df1f3-cmac202e0df1f0.cpe.net.cable.rogers.com
+0 28 28 39571986 1 1567882728
+/
+google-proxy-64-233-172-130.google.com
+0 60 60 108840760 1 1568108963
+/about.html
+209.171.88.58
+0 32 32 52913579 1 1567853965
+/
+msnbot-157-55-39-239.search.msn.com
+0 1 1 31386 1 1567558743
+/sponsors.html
+173.252.87.33
+0 1 1 10735 1 1568155840
+/
+crawl-66-249-64-198.googlebot.com
+0 1 1 10735 1 1567920086
+/
+public-254-185.nat.utoronto.ca
+0 29 27 66713688 1 1567947744
+/design.html
+public-240-88.nat.utoronto.ca
+0 8 2 37734 1 1567965498
+/design.html
+public-249-126.nat.utoronto.ca
+0 43 43 40724738 1 1567605227
+/
+crawl3.bl.semrush.com
+0 2 0 0 0 0
+-
+crawl10.bl.semrush.com
+0 1 0 0 0 0
+-
+ec2-34-207-100-153.compute-1.amazonaws.com
+0 1 1 10735 1 1567658747
+/
+public-113-7.nat.utoronto.ca
+0 24 24 39535790 1 1567780411
+/
+dsl-173-206-182-50.tor.primus.ca
+0 52 52 103514123 1 1567602848
+/design.html
+msnbot-207-46-13-15.search.msn.com
+0 1 1 11359 1 1567936483
+/about.html
+public-247-245.nat.utoronto.ca
+0 69 69 107464681 1 1568162173
+/about.html
+s0106105611a42297.ed.shawcable.net
+0 1 1 141471 0 0
+-
+69.171.251.50
+0 1 1 10735 1 1567594953
+/
+24.114.62.244
+0 45 45 84252048 1 1568122067
+/
+crawl20.bl.semrush.com
+0 1 1 10735 1 1567902046
+/
+msnbot-157-55-39-204.search.msn.com
+0 1 1 10735 1 1567473164
+/
+public-255-3.nat.utoronto.ca
+0 22 22 35656154 1 1568142117
+/
+ec2-54-251-166-210.ap-southeast-1.compute.amazonaws.com
+0 1 1 10735 1 1567476710
+/
+crawl22.bl.semrush.com
+0 1 0 0 0 0
+-
+msnbot-40-77-190-101.search.msn.com
+0 1 1 3898 0 0
+-
+ip-54-36-148-131.a.ahrefs.com
+0 1 1 11359 1 1568143977
+/about.html
+ec2-54-165-90-203.compute-1.amazonaws.com
+0 2 1 10735 1 1567681178
+/
+msnbot-40-77-188-100.search.msn.com
+0 1 1 331 0 0
+-
+msnbot-207-46-13-172.search.msn.com
+0 1 1 10735 1 1568120468
+/
+google-proxy-64-233-172-159.google.com
+0 61 61 71416568 2 1568108958
+/
+ipagstaticip-61a8f729-7b03-e9bc-a9fe-a6e4808b6b74.sdsl.bell.ca
+0 23 23 39526457 1 1567520858
+/
+aurron9127w-lp140-04-76-64-148-27.dsl.bell.ca
+0 1 1 22985 1 1567848353
+/design.html
+crawl-66-249-65-72.googlebot.com
+0 1 1 10735 1 1568058435
+/
+msnbot-40-77-190-106.search.msn.com
+0 1 1 17780 0 0
+-
+myweb.eis.utoronto.ca
+0 7 7 0 7 1568160865
+/
+msnbot-40-77-188-76.search.msn.com
+0 1 1 3671 0 0
+-
+public-116-123.nat.utoronto.ca
+0 39 39 80956425 1 1567950197
+/about.html
+static.88-198-43-207.clients.your-server.de
+0 1 1 11359 1 1567833548
+/about.html
+static.207.94.9.5.clients.your-server.de
+0 1 1 11359 1 1567833540
+/about.html
+cpeac202e082f73-cmac202e082f70.cpe.net.cable.rogers.com
+0 5 5 3467716 0 0
+-
+cpebc4dfb73abc3-cmbc4dfb73abc0.cpe.net.cable.rogers.com
+0 19 19 31390183 1 1568009010
+/
+166-48-0-77.cable.yesup.net
+0 12 11 41384439 1 1567721518
+/about.html
+176-8-90-196.broadband.kyivstar.net
+0 22 2 21470 1 1567518789
+/
+msnbot-40-77-167-136.search.msn.com
+0 1 1 10735 1 1567832470
+/
+64.62.202.72
+0 2 0 0 0 0
+-
+141-123.psaconstruction.com
+0 2 1 61254 0 0
+-
+crawl6.bl.semrush.com
+0 2 1 22985 1 1568067755
+/design.html
+135-23-73-18.cpe.pppoe.ca
+0 35 35 74148650 1 1568065265
+/about.html
+17-58-98-60.applebot.apple.com
+0 1 0 0 0 0
+-
+167.99.212.81
+0 1 0 0 0 0
+-
+crawl18.bl.semrush.com
+0 1 1 22985 1 1567323196
+/design.html
+public-247-107.nat.utoronto.ca
+0 7 1 34063 1 1568039415
+/design.html
+173.252.127.45
+0 1 1 10735 1 1567771998
+/
+msnbot-40-77-167-219.search.msn.com
+0 1 1 1937299 0 0
+-
+msnbot-207-46-13-69.search.msn.com
+0 1 1 10735 1 1567498818
+/
+crawl15.bl.semrush.com
+0 1 0 0 0 0
+-
+crawl16.bl.semrush.com
+0 2 1 9333 0 0
+-
+crawl-66-249-75-72.googlebot.com
+0 15 10 2623098 5 1567504629
+/
+crawl-66-249-69-31.googlebot.com
+0 9 6 39878 4 1568189229
+/
+crawl-66-249-64-195.googlebot.com
+0 2 1 10735 1 1567600109
+/
+209.141.154.77
+0 28 28 39571986 1 1567762710
+/
+msnbot-40-77-191-44.search.msn.com
+0 7 7 142822 0 0
+-
+public-252-199.nat.utoronto.ca
+0 24 24 39560520 1 1567691814
+/
+15.83.corp.black
+0 4 4 42940 1 1567639592
+/
+msnbot-40-77-188-206.search.msn.com
+0 1 1 3671 0 0
+-
+dynamic.apogeeetelecom.com
+0 28 28 39571986 1 1567745960
+/
+msnbot-40-77-189-71.search.msn.com
+0 2 2 8308 0 0
+-
+ip-54-36-148-89.a.ahrefs.com
+0 1 1 10735 1 1567903735
+/
+ec2-54-162-102-36.compute-1.amazonaws.com
+0 2 0 0 0 0
+-
+lamp2new.eis.utoronto.ca
+0 4 4 0 4 1568159332
+/
+ip-54-36-148-190.a.ahrefs.com
+0 1 0 0 0 0
+-
+crawl13.bl.semrush.com
+0 2 1 10735 1 1567985419
+/
+msnbot-207-46-13-193.search.msn.com
+0 2 2 21470 2 1567398802
+/
+4.14.84.2
+0 1 1 1515873 0 0
+-
+173.252.87.9
+0 1 1 0 1 1568155836
+/
+h64-141-112-194.bigpipeinc.com
+0 1 1 61254 0 0
+-
+dsl-173-206-107-108.tor.primus.ca
+0 33 33 68830091 1 1568146633
+/about.html
+202.239.1.113
+0 8 7 107268 2 1567675903
+/sponsors.html
+130.212.95.10
+0 3 3 4596032 0 0
+-
+msnbot-40-77-189-77.search.msn.com
+0 1 1 95786 0 0
+-
+msnbot-40-77-190-47.search.msn.com
+0 1 1 7977 0 0
+-
+msnbot-40-77-190-5.search.msn.com
+0 2 2 21678 0 0
+-
+178.128.178.187
+0 1 0 0 0 0
+-
+cpe001145102afc-cm9050ca2696c0.cpe.net.cable.rogers.com
+0 43 43 77822812 1 1567827659
+/design.html
+38.140.222.130
+0 44 44 64901235 1 1568140163
+/design.html
+37-167-47-254.coucou-networks.fr
+0 43 43 81121844 1 1567600641
+/about.html
+public-119-185.nat.utoronto.ca
+0 28 28 39571986 1 1567630861
+/
+google-proxy-64-233-172-128.google.com
+0 74 74 149465392 3 1567712955
+/about.html
+141-8-144-19.spider.yandex.com
+0 4 2 424271 1 1567543957
+/
+wordpress.com
+0 1 1 3955997 0 0
+-
+msnbot-40-77-167-125.search.msn.com
+0 1 1 4149676 0 0
+-
+66.220.149.13
+0 1 1 10735 1 1568081022
+/
+crawl26.bl.semrush.com
+0 1 1 11359 1 1567471125
+/about.html
+msnbot-40-77-189-235.search.msn.com
+0 1 1 17780 0 0
+-
+msnbot-157-55-39-57.search.msn.com
+0 1 1 1937299 0 0
+-
+static.81.106.9.5.clients.your-server.de
+0 1 1 11359 1 1567833564
+/about.html
+ip-54-36-150-3.a.ahrefs.com
+0 1 1 10735 1 1567318642
+/
+msnbot-40-77-191-96.search.msn.com
+0 1 1 331 0 0
+-
+natp-128-119-202-111.wireless.umass.edu
+0 28 28 25517600 1 1568016510
+/design.html
+crawl32.bl.semrush.com
+0 2 2 42745 2 1568181176
+/about.html
+bri.brilliantwebhosting.com
+0 1 0 0 0 0
+-
+msnbot-157-55-39-117.search.msn.com
+0 1 1 10735 1 1567721701
+/
+public-242-52.nat.utoronto.ca
+0 24 24 39560520 1 1568160550
+/
+cpef81d0fa7d413-cmf81d0fa7d410.cpe.net.cable.rogers.com
+0 28 28 39571986 1 1567639127
+/
+msnbot-207-46-13-114.search.msn.com
+0 1 1 10735 1 1567540025
+/
+msnbot-40-77-189-253.search.msn.com
+0 1 1 13379 0 0
+-
+crawl-66-249-65-76.googlebot.com
+0 1 1 10735 1 1568090282
+/
+cpe30b7d4fe9cf3-cm30b7d4fe9cf0.cpe.net.cable.rogers.com
+0 27 25 39594583 1 1568151257
+/
+msnbot-207-46-13-141.search.msn.com
+0 1 1 10735 1 1567659528
+/
+crawl-66-249-75-74.googlebot.com
+0 5 4 2060218 1 1567406553
+/
+crawl-66-249-75-198.googlebot.com
+0 1 0 0 1 1567524623
+/design.html
+public-249-156.nat.utoronto.ca
+0 1 0 0 0 0
+-
+crawl-66-249-65-74.googlebot.com
+0 1 0 0 0 0
+-
+msnbot-207-46-13-48.search.msn.com
+0 1 1 10735 1 1567877890
+/
+207.148.68.110.vultr.com
+0 1 0 0 0 0
+-
+msnbot-40-77-188-251.search.msn.com
+0 1 1 7977 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+crawl-66-249-69-1.googlebot.com
+0 1 0 0 0 0
+-
+public-247-245.nat.utoronto.ca
+0 69 69 107464681 1 1568162173
+/about.html
+myweb.eis.utoronto.ca
+0 1 1 0 1 1568160865
+/
+crawl-66-249-69-31.googlebot.com
+0 1 1 10735 1 1568189229
+/
+crawl13.bl.semrush.com
+0 1 0 0 0 0
+-
+crawl32.bl.semrush.com
+0 1 1 11359 1 1568181176
+/about.html
+public-242-52.nat.utoronto.ca
+0 24 24 39560520 1 1568160550
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://lm.facebook.com/l.php
+0 1
+http://seismic.skule.ca/css/style.css
+0 22
+http://seismic.skule.ca/design.html
+0 265
+https://staging.engsci.utoronto.ca
+0 4
+https://engsci.utoronto.ca
+0 3
+https://www.facebook.com/
+0 1
+https://www.google.com/
+0 23
+- (Direct Request)
+0 222
+https://www.ecosia.org/
+0 1
+http://seismic.skule.ca/css/lightbox.css
+0 86
+http://seismic.skule.ca/about.html
+0 219
+http://seismic.skule.ca/images/rjc.jpg
+0 1
+http://civmin.utoronto.ca
+0 4
+https://www.google.ca/
+0 6
+http://seismic.skule.ca/
+0 912
+http://seismic.skule.ca/sponsors.html
+0 51
+https://www.google.com
+0 1
+http://skule.ca/design_teams
+0 6
+http://seismic.skule.ca/index.html
+0 8
+https://l.facebook.com/
+0 1
+http://www.skule.ca/design_teams
+0 2
+http://seismic.skule.ca/contact.php
+0 2
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.1 Mobile/15E14
+0 50
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Mobile/15E14
+0 74
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+0 3
+Mozilla/5.0 (X11; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0
+0 6
+Mozilla/5.0 (Linux; Android 10; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Mobile Safari/537.36
+0 39
+Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36
+0 11
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36 OPR/63.0.3368.
+0 105
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b
+0 28
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.1.2 Safari/605.1.15
+0 43
+Mozilla/5.0 (Linux; Android 9; SM-A530W) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Mobile Safari/537.36
+0 28
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.81 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+0 28
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/604.4.7 (KHTML, like Gecko) Version/11.0.2 Safari/604.4.7
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.1.2 Safari/605.1.15
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.2 Safari/605.1.15
+0 24
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+0 22
+ia_archiver
+0 2
+Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)
+0 7
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36
+0 28
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 15
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 41
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36
+0 19
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36
+0 407
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+0 1
+Go-http-client/1.1
+0 2
+Mozilla/5.0 (Linux; Android 10; Pixel) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Mobile Safari/537.36
+0 37
+Photon/1.0
+0 1
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Safari/537.36
+0 1
+Googlebot-Image/1.0
+0 6
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15F79 [FBAN/FBIOS;FBAV
+0 28
+MixnodeCache/1.8(+https://cache.mixnode.com/)
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.2.5 (KHTML, like Gecko) Version/8.0.2 Safari/600.2.5 (Applebo
+0 2
+Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 M
+0 11
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Sa
+0 41
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.4 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.4 facebook
+0 3
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 6
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_0_1 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/14A403 
+0 32
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Mobile/15E148 
+0 47
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.47 Safari/537.36
+0 4
+Y!J-ASR/1.0 crawler (https://www.yahoo-help.jp/app/answers/detail/p/595/a_id/42716/)
+0 8
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36
+0 44
+Mozilla/5.0 (Linux; Android 9; SM-N960F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Mobile Safari/537.36
+0 41
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile S
+0 44
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36
+0 2
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.119 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; SemrushBot/6~bl; +http://www.semrush.com/bot.html)
+0 17
+Mozilla/5.0 (Linux; Android 7.1.1; SM-A530W Build/NMF26X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.
+0 22
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36
+0 217
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:68.0) Gecko/20100101 Firefox/68.0
+0 37
+Mozilla/5.0 (iPad; CPU OS 10_2_1 like Mac OS X) AppleWebKit/602.4.6 (KHTML, like Gecko) Version/10.0 Mobile/14D27 Safari/602.
+0 69
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:68.0) Gecko/20100101 Firefox/68.0
+0 43
+Mozilla/5.0 (Linux; Android 9; Pixel 2 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Mobile Safari/537.36
+0 78
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
