@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { Collapse, Nav, Navbar, NavbarToggler, NavItem, NavLink, Dropdown, DropdownToggle, DropdownMenu, DropdownItem } from 'reactstrap';
 import { Link } from 'react-router-dom';
-import AnchorLink from 'react-anchor-link-smooth-scroll'
+import AnchorLink from 'react-anchor-link-smooth-scroll';
 
 export default class AppNavbar extends Component {
   constructor(props) {

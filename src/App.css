@@ -71,8 +71,6 @@ body, html {
     background-attachment: scroll;
     height: 300px;
   }
-
-
 }
 
 .image-row{
@@ -86,7 +84,7 @@ body, html {
 }
 
 .team {
-  background-image: url("images/Team/group_photo_2018.jpg");
+  background-image: url("images/Team/group.jpg");
 }
 
 .design{
@@ -244,6 +242,12 @@ body, html {
   padding-left: 1.1rem;
   padding-right: 1.1rem;
   }
+  }
+
+  .pics img{
+    width: 100%;
+    height: auto;
+    image-orientation: 
   }
 
 .App-logo {

@@ -6,7 +6,7 @@ import Media from './pages/Media';
 import Sponsors from './pages/Sponsors';
 import Design from './pages/Design';
 import PastYears from './pages/about/PastYears';
-import Test from './pages/Test';
+// import Test from './pages/Test';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 
 class App extends Component {
@@ -20,7 +20,6 @@ class App extends Component {
           <Route path='/sponsors' exact={true} component={Sponsors}/>
           <Route path='/design' exact={true} component={Design}/>
           <Route path='/about/history' exact={true} component={PastYears}/>
-          <Route path='/test' exact={true} component={Test}/>
         </Switch>
       </Router>
     )

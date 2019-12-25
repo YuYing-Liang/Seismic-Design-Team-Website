@@ -20,7 +20,7 @@ class Home extends Component {
               <div className="card-body">
                 <h2 className="card-title font-weight-bold"> Seis·mic </h2>
                 <i className="card-subtitle mb-2 text-muted"> /ˈsīzmik/ &emsp; &emsp; adjective</i>
-                <p className="card-text">
+                <div className="card-text">
                   relating to earthquakes or other vibrations of the earth and its crust.
                   <ul>
                     <li>relating to or denoting geological surveying methods involving vibrations produced artificially by explosions</li>
@@ -29,7 +29,7 @@ class Home extends Component {
                         "there are seismic pressures threatening you at skule"
                         </div></li>
                   </ul>
-                </p>
+                </div>
                 <AnchorLink href="#what" className="btn btn-dark">Learn More <span role="img" aria-label="down">🔽</span></AnchorLink>
               </div>
             </div>
@@ -54,6 +54,10 @@ class Home extends Component {
               The Seismic Design Team aims to represent Skule at a competition level while providing students with the chance to be involved in a multi-disciplinary, complex design challenge."/>
             
           <br/><br/>
+          <Event image="construction.jpg" eventName="Construction Event!" date="Nov 6th and 7th [18:15-19:15]" location="Myhal Basement, UofT"
+                 text="Do YOU want to build things with balsa wood? Yeah you do! Come out to our weekly construction build
+                       events in our workshop so you can meet cool people who also like making things and learn new skills!"/>
+
           <Event image="kickoff-meeting.jpg" eventName="KickOff Meeting" date="Friday, September 20th, 2019 [18:00-18:30]" location="GB303, UofT"
                  text="Find out all the quaking details of our awesome team at our very exciting Kickoff Meeting.
                       You'll learn about the cool things we build out of wood and meet our cool team members. Seismic is

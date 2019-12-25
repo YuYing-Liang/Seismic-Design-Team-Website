@@ -46,7 +46,7 @@ export default class Sponsors extends Component {
         </div>
         <Container fluid>
             <br/><br/><br/><br/>
-            <div class="card mb-5">
+            <div className="card mb-5">
               <div className="card-header">
                 <ul className="nav nav-tabs card-header-tabs">
                   <li className="nav-item">
