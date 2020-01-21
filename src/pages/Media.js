@@ -37,11 +37,11 @@ export default class Media extends Component {
         return (
         <div>
             <AppNavbar/>
-            <Container fluid>
+            <Container fluid className="col-lg-10 body-content">
                 <div className="big-font text-dark">
                     Media
                 </div>
-                <br/><br/><br/><br/>
+                <br/><br/>
                 <div className="card text-center mb-5">
                     <div className="card-header">
                         <ul className="nav nav-tabs card-header-tabs">

@@ -35,7 +35,7 @@ class Home extends Component {
             </div>
           </div>
         </div>
-        <Container fluid>
+        <Container fluid className="col-lg-10 body-content">
           <br/><br/><br/><br/><br/>
 
           <div id="what"></div>

@@ -6,8 +6,9 @@ import Media from './pages/Media';
 import Sponsors from './pages/Sponsors';
 import Design from './pages/Design';
 import PastYears from './pages/about/PastYears';
-// import Test from './pages/Test';
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import Contact from './pages/Contact';
+import PreviousTeams from './pages/about/PreviousTeams';
+import { HashRouter as Router, Route, Switch } from 'react-router-dom';
 
 class App extends Component {
   render() {
@@ -19,7 +20,9 @@ class App extends Component {
           <Route path='/media' exact={true} component={Media}/>
           <Route path='/sponsors' exact={true} component={Sponsors}/>
           <Route path='/design' exact={true} component={Design}/>
+          <Route path='/contact' exact={true} component={Contact}/>
           <Route path='/about/history' exact={true} component={PastYears}/>
+          <Route path='/about/alumni' exact={true} component={PreviousTeams}/>
         </Switch>
       </Router>
     )

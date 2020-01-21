@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { Collapse, Nav, Navbar, NavbarToggler, NavItem, NavLink, Dropdown, DropdownToggle, DropdownMenu, DropdownItem } from 'reactstrap';
 import { Link } from 'react-router-dom';
-import AnchorLink from 'react-anchor-link-smooth-scroll';
+// import AnchorLink from 'react-anchor-link-smooth-scroll';
 
 export default class AppNavbar extends Component {
   constructor(props) {
@@ -63,6 +63,7 @@ export default class AppNavbar extends Component {
               <DropdownMenu>
                 <DropdownItem tag={Link} to="/about"> Team </DropdownItem>
                 <DropdownItem tag={Link} to="/about/history"> Past Years Competitions </DropdownItem>
+                <DropdownItem tag={Link} to="/about/alumni"> Team Alumni </DropdownItem>
               </DropdownMenu>
             </Dropdown>
           </NavItem>
@@ -76,7 +77,8 @@ export default class AppNavbar extends Component {
             <NavLink tag={Link} to="/sponsors">Sponsors</NavLink>
           </NavItem>
           <NavItem>
-            <NavLink><AnchorLink href="#contact" style={{textDecoration:'none'}}>Contact</AnchorLink></NavLink>
+            {/* <NavLink><AnchorLink href="#contact" style={{textDecoration:'none'}}>Contact</AnchorLink></NavLink> */}
+            <NavLink tag={Link} to="/contact">Contact</NavLink>
           </NavItem>
         </Nav>
       </Collapse>

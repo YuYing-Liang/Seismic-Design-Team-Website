@@ -246,9 +246,12 @@ body, html {
 
   .pics img{
     width: 100%;
-    height: auto;
-    image-orientation: 
+    height: auto; 
   }
+
+.body-content {
+  margin: 2.5rem auto;
+}
 
 .App-logo {
   animation: App-logo-spin infinite 20s linear;

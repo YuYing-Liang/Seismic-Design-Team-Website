@@ -9,8 +9,8 @@ export default class Description extends Component {
   }
 
   render() {
-    let para = this.state.sections.map((s) => {
-      return <p>{s.trim() === "" ? s : s += '.'}</p>
+    let para = this.state.sections.map((s, index) => {
+      return <p key={index}>{s.trim() === "" ? s : s += '.'}</p>
     });
     return (this.props.align === "left") ? (
     <div className="row m-4">

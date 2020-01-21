@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-export default class AppNavbar extends Component {
+export default class Footer extends Component {
     constructor(props) {
         super(props);
         this.state = { 
@@ -91,7 +91,7 @@ export default class AppNavbar extends Component {
         	                            required
         	                            value={this.state.email}/>
                                 </div>
-                                <input type="button" value="submit" className="btn btn-secondary" onClick={this.handleSubmit} />
+                                <input type="button" value="Submit" className="btn btn-secondary" onClick={this.handleSubmit} />
                             </form>
                         </div>
                         <div className="col-md">

@@ -133,17 +133,21 @@ export default class PastYears extends Component {
         return (
         <div>
             <AppNavbar/>
-            <Container fluid>
+            <Container fluid className="col-lg-10 body-content">
                 <div className="big-font text-dark">
                     Past Competitions
                 </div>
                 <br/><br/><br/>
-                <div className="container p-3">
+                <div className="container">
                     <Description align="left" title="2020" description="
                         We’re very excited to compete in San Diego this March and look forward to seeing how other 
                         teams have tackled the torsional irregularities this year!"/>
 
-                    <Description align="left" title="2019" description=" In construction, stay tuned!"/>
+                    <Description align="left" title="2019" description="
+                        The most recent competition in Vancouver brought us surprises and new successes. Being the first team to
+                        use dampers in our design, this year held many new learning opportunities. As well, due to the diligence
+                        of our team we managed to earn 1st place in communication which was a great milestone.
+                    "/>
 
                     {/*<div className="row m-4">
                         <div className="col-lg www-des">

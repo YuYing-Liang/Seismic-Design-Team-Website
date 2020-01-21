@@ -14,9 +14,9 @@ export default class Design extends Component {
         <div className="parallax design"> 
           <div className="bottom-quote big-font" id="design">Design</div>
         </div>
-        <Container fluid>
-          <br/><br/><br/><br/><br/><br/>
-          <div className="container p-3">
+        <Container fluid className="col-lg-10 body-content">
+          <br/><br/><br/>
+          <div className="container">
             <Description align="left" title="Testing" description="
             A key aspect of any good design is experimental testing. These tests are important as they allow 
             for model calibration as well as a deeper understanding of the concepts and theories that underlie 

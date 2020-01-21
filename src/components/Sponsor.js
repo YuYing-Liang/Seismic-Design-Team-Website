@@ -3,11 +3,12 @@ import React, { Component } from 'react';
 export default class Sponsor extends Component {
 
   render() {
+    let imgSrc = this.props.image !== "" ? require('../images/Sponsors/' + this.props.image) : "";
     return <div className="row m-5">
     <div className="card mb-3 profile border-0">
         <div className="row no-gutters">
             <div className="col-md-4">
-              <img className="card-img" src={require('../images/Sponsors/' + this.props.image)} alt={this.props.sponsor}/>
+              <img className="card-img" src={imgSrc} alt={this.props.sponsor}/>
             </div>
             <div className="col-md-8">
               <div className="card-body">

@@ -17,7 +17,7 @@ export default class About extends Component {
           </div>
         </div>
         <Container fluid>
-          <div className="p-4">
+          <div className="col-lg-10 body-content">
             <div className="row mt-5 mb-5 mr-2 ml-2">
               <div className="col-lg card">
                 <div className="card-body">
@@ -52,7 +52,6 @@ export default class About extends Component {
             <div className="row mb-5 mr-2 ml-2">
               <h2 className="big-font text-dark mb-5"> Junior DnA Leads </h2>
               <div className="row">
-                <Profile image="leads/karen.jpg" memberName="Karen Rojas Avila" role="" blurb=""/>
                 <Profile image="leads/alex.jpg" memberName="Alex Vespa" role="" blurb="Alex is a third year civil engineering student interested in structural engineering. He joined seismic to learn more about tower design and using structural analysis software. In his free time he enjoys playing guitar and soccer."/>
                 <Profile image="leads/maher.jpg" memberName="Maher Absar" role="" blurb="Maher is currently a third-year student interested in structural engineering, design and construction of infrastructure.  He is excited to apply his engineering skills and see the results come to life as a top-notch balsa wood tower."/>
                 <Profile image="leads/eliza.jpg" memberName="Eliza Van Weerdhuizen" role="" blurb="Eliza joined the Seismic Design Team to learn new skills and gain relevant experience outside of the classroom, including innovative techniques that aren’t part of the curriculum.  She is excited to be part of the team and work together to solve important and interesting challenges."/>
